@@ -1,0 +1,35 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 3602000,
+    "topic": "篇前：伤寒金匮分合 / 霍乱",
+    "cue_range": [
+      1,
+      1377
+    ],
+    "bvid": "BV15P8ezCEpV"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 3602000,
+    "t_end_ms": 4729000,
+    "topic": "第一篇条1 上工治未病 / 见肝实脾",
+    "cue_range": [
+      1377,
+      1758
+    ],
+    "bvid": "BV15P8ezCEpV"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 4729000,
+    "t_end_ms": 6956001,
+    "topic": "第一篇条2 夫人禀五常；口称第一篇总说",
+    "cue_range": [
+      1758,
+      2592
+    ],
+    "bvid": "BV15P8ezCEpV"
+  }
+]

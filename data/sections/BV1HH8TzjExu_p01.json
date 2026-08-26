@@ -1,0 +1,46 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 14000,
+    "t_end_ms": 64000,
+    "topic": "篇前：书的来源 / 课例",
+    "cue_range": [
+      9,
+      27
+    ],
+    "bvid": "BV1HH8TzjExu"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 64000,
+    "t_end_ms": 3905000,
+    "topic": "素问·上古天真论",
+    "cue_range": [
+      27,
+      1190
+    ],
+    "bvid": "BV1HH8TzjExu"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 3905000,
+    "t_end_ms": 5855000,
+    "topic": "素问·四气调神大论",
+    "cue_range": [
+      1190,
+      1761
+    ],
+    "bvid": "BV1HH8TzjExu"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 5855000,
+    "t_end_ms": 6904501,
+    "topic": "素问·生气通天论（上）",
+    "cue_range": [
+      1761,
+      2076
+    ],
+    "bvid": "BV1HH8TzjExu"
+  }
+]

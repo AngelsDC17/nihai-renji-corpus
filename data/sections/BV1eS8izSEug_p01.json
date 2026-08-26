@@ -1,0 +1,101 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 2586000,
+    "topic": "黄疸提纲",
+    "cue_range": [
+      1,
+      983
+    ],
+    "bvid": "BV1eS8izSEug"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 2586000,
+    "t_end_ms": 2954000,
+    "topic": "茵陈蒿汤",
+    "cue_range": [
+      983,
+      1124
+    ],
+    "bvid": "BV1eS8izSEug"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2954000,
+    "t_end_ms": 3504000,
+    "topic": "硝石矾石 / 栀子大黄",
+    "cue_range": [
+      1124,
+      1318
+    ],
+    "bvid": "BV1eS8izSEug"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 3504000,
+    "t_end_ms": 3720000,
+    "topic": "猪膏发煎",
+    "cue_range": [
+      1318,
+      1410
+    ],
+    "bvid": "BV1eS8izSEug"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 3720000,
+    "t_end_ms": 3783000,
+    "topic": "茵陈五苓散",
+    "cue_range": [
+      1410,
+      1433
+    ],
+    "bvid": "BV1eS8izSEug"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 3783000,
+    "t_end_ms": 4596000,
+    "topic": "大黄硝石 / 诸黄柴胡",
+    "cue_range": [
+      1433,
+      1715
+    ],
+    "bvid": "BV1eS8izSEug"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 4596000,
+    "t_end_ms": 4985000,
+    "topic": "小建中收束",
+    "cue_range": [
+      1715,
+      1866
+    ],
+    "bvid": "BV1eS8izSEug"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 4985000,
+    "t_end_ms": 5484000,
+    "topic": "惊悸吐衄提纲",
+    "cue_range": [
+      1866,
+      2067
+    ],
+    "bvid": "BV1eS8izSEug"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 5484000,
+    "t_end_ms": 7103501,
+    "topic": "胸满瘀血",
+    "cue_range": [
+      2067,
+      2706
+    ],
+    "bvid": "BV1eS8izSEug"
+  }
+]

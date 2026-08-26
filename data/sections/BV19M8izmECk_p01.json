@@ -1,0 +1,101 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1452000,
+    "topic": "大半夏续 / 妊娠呕吐（夹讲）",
+    "cue_range": [
+      1,
+      541
+    ],
+    "bvid": "BV19M8izmECk"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1452000,
+    "t_end_ms": 3390000,
+    "topic": "下利辨证",
+    "cue_range": [
+      541,
+      1264
+    ],
+    "bvid": "BV19M8izmECk"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 3390000,
+    "t_end_ms": 3907000,
+    "topic": "桃花汤",
+    "cue_range": [
+      1264,
+      1435
+    ],
+    "bvid": "BV19M8izmECk"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 3907000,
+    "t_end_ms": 4614000,
+    "topic": "通脉四逆 / 排脓预告",
+    "cue_range": [
+      1435,
+      1679
+    ],
+    "bvid": "BV19M8izmECk"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 4614000,
+    "t_end_ms": 5479000,
+    "topic": "疮痈肠痈提纲",
+    "cue_range": [
+      1679,
+      1985
+    ],
+    "bvid": "BV19M8izmECk"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 5479000,
+    "t_end_ms": 6208000,
+    "topic": "大黄牡丹皮汤",
+    "cue_range": [
+      1985,
+      2269
+    ],
+    "bvid": "BV19M8izmECk"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 6208000,
+    "t_end_ms": 6388000,
+    "topic": "王不留行散",
+    "cue_range": [
+      2269,
+      2333
+    ],
+    "bvid": "BV19M8izmECk"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 6388000,
+    "t_end_ms": 6843000,
+    "topic": "排脓散 / 排脓汤",
+    "cue_range": [
+      2333,
+      2520
+    ],
+    "bvid": "BV19M8izmECk"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 6843000,
+    "t_end_ms": 7035501,
+    "topic": "浸淫疮 / 黄连粉",
+    "cue_range": [
+      2520,
+      2592
+    ],
+    "bvid": "BV19M8izmECk"
+  }
+]

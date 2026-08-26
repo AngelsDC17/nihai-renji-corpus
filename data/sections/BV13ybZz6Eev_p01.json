@@ -1,0 +1,57 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1631000,
+    "topic": "序例：神农与经方",
+    "cue_range": [
+      1,
+      442
+    ],
+    "bvid": "BV13ybZz6Eev"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1631000,
+    "t_end_ms": 3459000,
+    "topic": "序例：君臣佐使",
+    "cue_range": [
+      442,
+      926
+    ],
+    "bvid": "BV13ybZz6Eev"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 3459000,
+    "t_end_ms": 4412000,
+    "topic": "序例：五味",
+    "cue_range": [
+      926,
+      1247
+    ],
+    "bvid": "BV13ybZz6Eev"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 4412000,
+    "t_end_ms": 4776000,
+    "topic": "序例：寒热温凉",
+    "cue_range": [
+      1247,
+      1366
+    ],
+    "bvid": "BV13ybZz6Eev"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 4776000,
+    "t_end_ms": 7167841,
+    "topic": "序例：升降浮沉",
+    "cue_range": [
+      1366,
+      2254
+    ],
+    "bvid": "BV13ybZz6Eev"
+  }
+]

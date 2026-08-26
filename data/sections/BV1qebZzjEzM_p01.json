@@ -1,0 +1,134 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 3223000,
+    "topic": "序例续：五味所伤 / 五病所禁",
+    "cue_range": [
+      1,
+      1070
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 3223000,
+    "t_end_ms": 4187000,
+    "topic": "第1味 丹砂",
+    "cue_range": [
+      1070,
+      1406
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 4187000,
+    "t_end_ms": 4615000,
+    "topic": "第2味 云母",
+    "cue_range": [
+      1406,
+      1554
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 4615000,
+    "t_end_ms": 4829000,
+    "topic": "第3味 玉泉",
+    "cue_range": [
+      1554,
+      1624
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 4829000,
+    "t_end_ms": 5070000,
+    "topic": "第4味 石钟乳",
+    "cue_range": [
+      1624,
+      1701
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 5070000,
+    "t_end_ms": 5300000,
+    "topic": "第5味 矾石",
+    "cue_range": [
+      1701,
+      1769
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 5300000,
+    "t_end_ms": 5487000,
+    "topic": "第6味 硝石",
+    "cue_range": [
+      1769,
+      1829
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 5487000,
+    "t_end_ms": 6252000,
+    "topic": "第7味 朴硝（芒硝）",
+    "cue_range": [
+      1829,
+      2055
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 6252000,
+    "t_end_ms": 6518000,
+    "topic": "第8味 滑石",
+    "cue_range": [
+      2055,
+      2124
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 6518000,
+    "t_end_ms": 6705000,
+    "topic": "第9味 曾青（夹说石胆）",
+    "cue_range": [
+      2124,
+      2167
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 6705000,
+    "t_end_ms": 7017000,
+    "topic": "第10味 空青",
+    "cue_range": [
+      2167,
+      2242
+    ],
+    "bvid": "BV1qebZzjEzM"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 7017000,
+    "t_end_ms": 7195001,
+    "topic": "第12味 禹余粮",
+    "cue_range": [
+      2242,
+      2283
+    ],
+    "bvid": "BV1qebZzjEzM"
+  }
+]

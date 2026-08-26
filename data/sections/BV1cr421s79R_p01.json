@@ -1,0 +1,24 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 13000,
+    "t_end_ms": 817000,
+    "topic": "总论（收束：先教任督）",
+    "cue_range": [
+      6,
+      253
+    ],
+    "bvid": "BV1cr421s79R"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 817000,
+    "t_end_ms": 1619001,
+    "topic": "任脉",
+    "cue_range": [
+      253,
+      477
+    ],
+    "bvid": "BV1cr421s79R"
+  }
+]

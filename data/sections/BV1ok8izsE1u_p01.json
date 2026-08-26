@@ -1,0 +1,178 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 700000,
+    "topic": "天雄散续（金05）",
+    "cue_range": [
+      1,
+      308
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 700000,
+    "t_end_ms": 1519000,
+    "topic": "虚劳里急 小建中汤",
+    "cue_range": [
+      308,
+      602
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1519000,
+    "t_end_ms": 1836000,
+    "topic": "黄芪建中汤",
+    "cue_range": [
+      602,
+      725
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1836000,
+    "t_end_ms": 2390000,
+    "topic": "虚劳腰痛 肾气丸",
+    "cue_range": [
+      725,
+      940
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 2390000,
+    "t_end_ms": 2673000,
+    "topic": "虚劳虚烦 酸枣仁汤",
+    "cue_range": [
+      940,
+      1046
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2673000,
+    "t_end_ms": 3087000,
+    "topic": "五劳 大黄䗪虫丸",
+    "cue_range": [
+      1046,
+      1209
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 3087000,
+    "t_end_ms": 3537000,
+    "topic": "炙甘草汤 / 篇末收束",
+    "cue_range": [
+      1209,
+      1348
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 3537000,
+    "t_end_ms": 3843000,
+    "topic": "肺痿提纲",
+    "cue_range": [
+      1348,
+      1470
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 3843000,
+    "t_end_ms": 4306000,
+    "topic": "肺痈提纲",
+    "cue_range": [
+      1470,
+      1640
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 4306000,
+    "t_end_ms": 4413000,
+    "topic": "甘草干姜汤",
+    "cue_range": [
+      1640,
+      1676
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 4413000,
+    "t_end_ms": 4673000,
+    "topic": "射干麻黄汤（夹讲）",
+    "cue_range": [
+      1676,
+      1757
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 4673000,
+    "t_end_ms": 4974000,
+    "topic": "皂荚丸",
+    "cue_range": [
+      1757,
+      1863
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 4974000,
+    "t_end_ms": 5618000,
+    "topic": "厚朴麻黄汤 / 泽漆汤",
+    "cue_range": [
+      1863,
+      2080
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 5618000,
+    "t_end_ms": 5887000,
+    "topic": "麦门冬汤",
+    "cue_range": [
+      2080,
+      2182
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 5887000,
+    "t_end_ms": 6201000,
+    "topic": "葶苈大枣泻肺 / 苇茎汤",
+    "cue_range": [
+      2182,
+      2299
+    ],
+    "bvid": "BV1ok8izsE1u"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 6201000,
+    "t_end_ms": 6462000,
+    "topic": "桔梗汤 / 越婢加半夏 / 小青龙加石膏",
+    "cue_range": [
+      2299,
+      2393
+    ],
+    "bvid": "BV1ok8izsE1u"
+  }
+]

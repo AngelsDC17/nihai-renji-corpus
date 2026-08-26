@@ -1,0 +1,57 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 23000,
+    "t_end_ms": 1395000,
+    "topic": "素问·热论",
+    "cue_range": [
+      22,
+      512
+    ],
+    "bvid": "BV1Yr8uz3EzE"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1395000,
+    "t_end_ms": 2972000,
+    "topic": "素问·刺热",
+    "cue_range": [
+      512,
+      1037
+    ],
+    "bvid": "BV1Yr8uz3EzE"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2972000,
+    "t_end_ms": 4316000,
+    "topic": "素问·评热病论",
+    "cue_range": [
+      1037,
+      1495
+    ],
+    "bvid": "BV1Yr8uz3EzE"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 4316000,
+    "t_end_ms": 5214000,
+    "topic": "素问·逆调论",
+    "cue_range": [
+      1495,
+      1776
+    ],
+    "bvid": "BV1Yr8uz3EzE"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 5214000,
+    "t_end_ms": 7160501,
+    "topic": "素问·疟论（上）",
+    "cue_range": [
+      1776,
+      2395
+    ],
+    "bvid": "BV1Yr8uz3EzE"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 959000,
+    "topic": "篇前：伤寒有五 / 太阳寒水",
+    "cue_range": [
+      1,
+      213
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 943500,
+    "t_end_ms": 2000000,
+    "topic": "条1 太阳提纲",
+    "cue_range": [
+      210,
+      510
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1998000,
+    "t_end_ms": 2219000,
+    "topic": "条2 中风",
+    "cue_range": [
+      510,
+      568
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 2217500,
+    "t_end_ms": 2903000,
+    "topic": "条3 伤寒",
+    "cue_range": [
+      568,
+      752
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 2901500,
+    "t_end_ms": 3284000,
+    "topic": "条4 传与不传",
+    "cue_range": [
+      752,
+      849
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 3282000,
+    "t_end_ms": 3454000,
+    "topic": "条5 阳明少阳不见",
+    "cue_range": [
+      849,
+      893
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 3452500,
+    "t_end_ms": 4241000,
+    "topic": "条6 温病 / 风温",
+    "cue_range": [
+      893,
+      1122
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 4239500,
+    "t_end_ms": 4465000,
+    "topic": "条7 发于阳阴",
+    "cue_range": [
+      1122,
+      1184
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 4465000,
+    "t_end_ms": 4527000,
+    "topic": "条8 针足阳明",
+    "cue_range": [
+      1184,
+      1200
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 4525000,
+    "t_end_ms": 4691000,
+    "topic": "条9 欲解时",
+    "cue_range": [
+      1200,
+      1247
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 4689000,
+    "t_end_ms": 4720000,
+    "topic": "条10 不了了",
+    "cue_range": [
+      1246,
+      1256
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 4714500,
+    "t_end_ms": 4955000,
+    "topic": "条11 真寒假热",
+    "cue_range": [
+      1252,
+      1328
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 4955000,
+    "t_end_ms": 6876000,
+    "topic": "条12 桂枝汤",
+    "cue_range": [
+      1328,
+      1862
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 6874000,
+    "t_end_ms": 6898000,
+    "topic": "条13 桂枝汤主之",
+    "cue_range": [
+      1862,
+      1868
+    ],
+    "bvid": "BV17P84z8EPS"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 6896000,
+    "t_end_ms": 7076000,
+    "topic": "条14 桂枝加葛根（伤01 前半）",
+    "cue_range": [
+      1868,
+      1917
+    ],
+    "bvid": "BV17P84z8EPS"
+  }
+]

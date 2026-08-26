@@ -1,0 +1,90 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 844000,
+    "topic": "第一篇续（条3–12 一带，未逐条口称）",
+    "cue_range": [
+      1,
+      333
+    ],
+    "bvid": "BV1fR8YzUEx1"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 844000,
+    "t_end_ms": 1017000,
+    "topic": "口称第十三条 阳病十八",
+    "cue_range": [
+      333,
+      393
+    ],
+    "bvid": "BV1fR8YzUEx1"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1017000,
+    "t_end_ms": 1276000,
+    "topic": "未口称·急当救里救表（通行约条14）",
+    "cue_range": [
+      393,
+      493
+    ],
+    "bvid": "BV1fR8YzUEx1"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1276000,
+    "t_end_ms": 1335000,
+    "topic": "口称第十五条 痼疾加以卒病",
+    "cue_range": [
+      493,
+      516
+    ],
+    "bvid": "BV1fR8YzUEx1"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1335000,
+    "t_end_ms": 1480000,
+    "topic": "口称第十六、十七条 / 第一篇终",
+    "cue_range": [
+      516,
+      574
+    ],
+    "bvid": "BV1fR8YzUEx1"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 1480000,
+    "t_end_ms": 1790000,
+    "topic": "第一篇收束",
+    "cue_range": [
+      574,
+      692
+    ],
+    "bvid": "BV1fR8YzUEx1"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 1790000,
+    "t_end_ms": 4239000,
+    "topic": "第二篇痉病",
+    "cue_range": [
+      692,
+      1665
+    ],
+    "bvid": "BV1fR8YzUEx1"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 4239000,
+    "t_end_ms": 7208501,
+    "topic": "第二篇湿家（金02）",
+    "cue_range": [
+      1665,
+      3050
+    ],
+    "bvid": "BV1fR8YzUEx1"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 22000,
+    "t_end_ms": 161000,
+    "topic": "素问·病能论（下）",
+    "cue_range": [
+      6,
+      49
+    ],
+    "bvid": "BV1tG8uzcE4d"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 161000,
+    "t_end_ms": 2431000,
+    "topic": "素问·奇病论",
+    "cue_range": [
+      49,
+      828
+    ],
+    "bvid": "BV1tG8uzcE4d"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2431000,
+    "t_end_ms": 5200000,
+    "topic": "素问·大奇论",
+    "cue_range": [
+      828,
+      1673
+    ],
+    "bvid": "BV1tG8uzcE4d"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 5200000,
+    "t_end_ms": 6877501,
+    "topic": "素问·脉解（上）",
+    "cue_range": [
+      1673,
+      2179
+    ],
+    "bvid": "BV1tG8uzcE4d"
+  }
+]

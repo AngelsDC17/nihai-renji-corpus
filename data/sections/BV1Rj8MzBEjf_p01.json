@@ -1,0 +1,90 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 20000,
+    "t_end_ms": 1122000,
+    "topic": "素问·著至教论（下）",
+    "cue_range": [
+      3,
+      305
+    ],
+    "bvid": "BV1Rj8MzBEjf"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1122000,
+    "t_end_ms": 2117000,
+    "topic": "素问·示从容论",
+    "cue_range": [
+      305,
+      626
+    ],
+    "bvid": "BV1Rj8MzBEjf"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2117000,
+    "t_end_ms": 3291000,
+    "topic": "素问·疏五过论",
+    "cue_range": [
+      626,
+      1039
+    ],
+    "bvid": "BV1Rj8MzBEjf"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 3291000,
+    "t_end_ms": 3842000,
+    "topic": "素问·征四失论",
+    "cue_range": [
+      1039,
+      1207
+    ],
+    "bvid": "BV1Rj8MzBEjf"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 3842000,
+    "t_end_ms": 5008000,
+    "topic": "素问·阴阳类论",
+    "cue_range": [
+      1207,
+      1585
+    ],
+    "bvid": "BV1Rj8MzBEjf"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 5008000,
+    "t_end_ms": 5863000,
+    "topic": "素问·方盛衰论",
+    "cue_range": [
+      1585,
+      1850
+    ],
+    "bvid": "BV1Rj8MzBEjf"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 5863000,
+    "t_end_ms": 6463000,
+    "topic": "素问·解精微论",
+    "cue_range": [
+      1850,
+      2044
+    ],
+    "bvid": "BV1Rj8MzBEjf"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 6463000,
+    "t_end_ms": 9276001,
+    "topic": "素问·刺法论（遗篇）",
+    "cue_range": [
+      2044,
+      2909
+    ],
+    "bvid": "BV1Rj8MzBEjf"
+  }
+]

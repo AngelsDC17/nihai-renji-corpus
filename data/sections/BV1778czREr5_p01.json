@@ -1,0 +1,156 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 646000,
+    "topic": "续禹余粮",
+    "cue_range": [
+      1,
+      183
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 646000,
+    "t_end_ms": 789000,
+    "topic": "第13味 太一余粮",
+    "cue_range": [
+      183,
+      229
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 789000,
+    "t_end_ms": 1193500,
+    "topic": "第14味 白石英",
+    "cue_range": [
+      229,
+      359
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1193500,
+    "t_end_ms": 1657500,
+    "topic": "第15味 紫石英",
+    "cue_range": [
+      359,
+      505
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1657500,
+    "t_end_ms": 2068500,
+    "topic": "第16味 石脂",
+    "cue_range": [
+      505,
+      618
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2068500,
+    "t_end_ms": 2197000,
+    "topic": "第17–18味 白青、扁青",
+    "cue_range": [
+      618,
+      654
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 2197000,
+    "t_end_ms": 2809000,
+    "topic": "第19味 菖蒲",
+    "cue_range": [
+      654,
+      824
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 2809000,
+    "t_end_ms": 3118000,
+    "topic": "第20味 菊花",
+    "cue_range": [
+      824,
+      906
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 3118000,
+    "t_end_ms": 4281500,
+    "topic": "第21味 人参",
+    "cue_range": [
+      906,
+      1235
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 4281500,
+    "t_end_ms": 5039000,
+    "topic": "第23味 甘草",
+    "cue_range": [
+      1235,
+      1472
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 5039000,
+    "t_end_ms": 5460500,
+    "topic": "第24味 干地黄",
+    "cue_range": [
+      1472,
+      1570
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 5460500,
+    "t_end_ms": 5502100,
+    "topic": "术（口称乱序，夹在地黄后）",
+    "cue_range": [
+      1570,
+      1584
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 5502100,
+    "t_end_ms": 5592000,
+    "topic": "第26味 菟丝子",
+    "cue_range": [
+      1584,
+      1610
+    ],
+    "bvid": "BV1778czREr5"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 5592000,
+    "t_end_ms": 6949861,
+    "topic": "第27味 牛膝（上）",
+    "cue_range": [
+      1610,
+      2039
+    ],
+    "bvid": "BV1778czREr5"
+  }
+]

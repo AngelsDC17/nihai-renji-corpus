@@ -1,0 +1,189 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 54000,
+    "topic": "芍药（本08开场）",
+    "cue_range": [
+      1,
+      26
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 54000,
+    "t_end_ms": 117000,
+    "topic": "第166味 蠡实",
+    "cue_range": [
+      26,
+      45
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 117000,
+    "t_end_ms": 381000,
+    "topic": "第167味 瞿麦",
+    "cue_range": [
+      45,
+      140
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 381000,
+    "t_end_ms": 603000,
+    "topic": "第168味 玄参",
+    "cue_range": [
+      140,
+      223
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 603000,
+    "t_end_ms": 903000,
+    "topic": "第169味 秦艽",
+    "cue_range": [
+      223,
+      323
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 903000,
+    "t_end_ms": 1699000,
+    "topic": "第170–171味 百合 / 知母",
+    "cue_range": [
+      323,
+      616
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 1699000,
+    "t_end_ms": 2018000,
+    "topic": "第172味 贝母",
+    "cue_range": [
+      616,
+      728
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 2018000,
+    "t_end_ms": 2282000,
+    "topic": "第173味 白芷",
+    "cue_range": [
+      728,
+      807
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 2282000,
+    "t_end_ms": 2753000,
+    "topic": "第174味 淫羊藿",
+    "cue_range": [
+      807,
+      980
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 2753000,
+    "t_end_ms": 3461000,
+    "topic": "第175味 黄芩",
+    "cue_range": [
+      980,
+      1234
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 3461000,
+    "t_end_ms": 3891000,
+    "topic": "第178味 白茅根（前夹紫菀）",
+    "cue_range": [
+      1234,
+      1372
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 3891000,
+    "t_end_ms": 4187000,
+    "topic": "第180味 紫草",
+    "cue_range": [
+      1372,
+      1450
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 4187000,
+    "t_end_ms": 5084000,
+    "topic": "败酱 / 白鲜皮",
+    "cue_range": [
+      1450,
+      1777
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 5084000,
+    "t_end_ms": 5462000,
+    "topic": "第183–185一带（紫参）",
+    "cue_range": [
+      1777,
+      1885
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 5462000,
+    "t_end_ms": 6417000,
+    "topic": "第186味 石韦（夹藁本、白薇）",
+    "cue_range": [
+      1885,
+      2188
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 6417000,
+    "t_end_ms": 6990000,
+    "topic": "第190味 王瓜",
+    "cue_range": [
+      2188,
+      2376
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 6990000,
+    "t_end_ms": 7281001,
+    "topic": "第192味 海藻",
+    "cue_range": [
+      2376,
+      2478
+    ],
+    "bvid": "BV1Mj8wzLEfm"
+  }
+]

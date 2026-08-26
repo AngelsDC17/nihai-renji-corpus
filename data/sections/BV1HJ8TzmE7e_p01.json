@@ -1,0 +1,24 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 3736000,
+    "topic": "素问·脉要精微论（下）",
+    "cue_range": [
+      1,
+      1230
+    ],
+    "bvid": "BV1HJ8TzmE7e"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 3736000,
+    "t_end_ms": 6582001,
+    "topic": "素问·平人气象论（上）",
+    "cue_range": [
+      1230,
+      2149
+    ],
+    "bvid": "BV1HJ8TzmE7e"
+  }
+]

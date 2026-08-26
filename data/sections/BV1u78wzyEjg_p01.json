@@ -1,0 +1,255 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 42000,
+    "topic": "第191味 地榆（开场回讲）",
+    "cue_range": [
+      1,
+      14
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 42000,
+    "t_end_ms": 556000,
+    "topic": "第192味 海藻",
+    "cue_range": [
+      14,
+      188
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 556000,
+    "t_end_ms": 747000,
+    "topic": "第193味 泽兰",
+    "cue_range": [
+      188,
+      241
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 747000,
+    "t_end_ms": 1216000,
+    "topic": "第194味 防己",
+    "cue_range": [
+      241,
+      413
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1216000,
+    "t_end_ms": 1423000,
+    "topic": "第195味 款冬花",
+    "cue_range": [
+      413,
+      471
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 1423000,
+    "t_end_ms": 1842000,
+    "topic": "第196味 牡丹",
+    "cue_range": [
+      471,
+      601
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 1842000,
+    "t_end_ms": 1967000,
+    "topic": "第201味 蜀羊泉",
+    "cue_range": [
+      601,
+      633
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 1967000,
+    "t_end_ms": 2137000,
+    "topic": "第203味 假苏",
+    "cue_range": [
+      633,
+      678
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 2137000,
+    "t_end_ms": 2328000,
+    "topic": "第204–205味 翘根 / 桑白皮",
+    "cue_range": [
+      678,
+      720
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 2328000,
+    "t_end_ms": 2564000,
+    "topic": "第206味 竹叶",
+    "cue_range": [
+      720,
+      797
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 2564000,
+    "t_end_ms": 3653000,
+    "topic": "第207味 吴茱萸",
+    "cue_range": [
+      797,
+      1219
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 3653000,
+    "t_end_ms": 3949000,
+    "topic": "第208味 栀子",
+    "cue_range": [
+      1219,
+      1317
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 3949000,
+    "t_end_ms": 4211000,
+    "topic": "第210味 枳实",
+    "cue_range": [
+      1317,
+      1400
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 4211000,
+    "t_end_ms": 4682000,
+    "topic": "厚朴（口称未给味次）",
+    "cue_range": [
+      1400,
+      1564
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 4682000,
+    "t_end_ms": 4811000,
+    "topic": "第212味 秦皮",
+    "cue_range": [
+      1564,
+      1599
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 4811000,
+    "t_end_ms": 5171000,
+    "topic": "第213味 秦椒",
+    "cue_range": [
+      1599,
+      1710
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 5171000,
+    "t_end_ms": 5375000,
+    "topic": "山茱萸（口称未给味次）",
+    "cue_range": [
+      1710,
+      1769
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 18,
+    "t_start_ms": 5375000,
+    "t_end_ms": 5636000,
+    "topic": "第216味 猪苓",
+    "cue_range": [
+      1769,
+      1870
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 19,
+    "t_start_ms": 5636000,
+    "t_end_ms": 5928000,
+    "topic": "第217–218味 白棘 / 龙眼",
+    "cue_range": [
+      1870,
+      1964
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 20,
+    "t_start_ms": 5928000,
+    "t_end_ms": 6152000,
+    "topic": "卫矛",
+    "cue_range": [
+      1964,
+      2024
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 21,
+    "t_start_ms": 6152000,
+    "t_end_ms": 6501000,
+    "topic": "羚羊角一带（222–227）",
+    "cue_range": [
+      2024,
+      2141
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 22,
+    "t_start_ms": 6501000,
+    "t_end_ms": 6883000,
+    "topic": "犀角",
+    "cue_range": [
+      2141,
+      2256
+    ],
+    "bvid": "BV1u78wzyEjg"
+  },
+  {
+    "section": 23,
+    "t_start_ms": 6883000,
+    "t_end_ms": 7329001,
+    "topic": "燕屎 / 天鼠屎 / 刺猬皮预告（229–231）",
+    "cue_range": [
+      2256,
+      2420
+    ],
+    "bvid": "BV1u78wzyEjg"
+  }
+]

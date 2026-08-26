@@ -1,0 +1,354 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 151000,
+    "topic": "口称续 九日阴阳 / 厥热胜复",
+    "cue_range": [
+      1,
+      50
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 151000,
+    "t_end_ms": 230000,
+    "topic": "口称347 反与黄芩汤彻热",
+    "cue_range": [
+      50,
+      82
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 230000,
+    "t_end_ms": 594000,
+    "topic": "口称348 先厥后发热下利自止",
+    "cue_range": [
+      82,
+      220
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 594000,
+    "t_end_ms": 769000,
+    "topic": "热深厥亦深",
+    "cue_range": [
+      220,
+      288
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 769000,
+    "t_end_ms": 867000,
+    "topic": "口称352 手足厥冷定义",
+    "cue_range": [
+      288,
+      327
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 867000,
+    "t_end_ms": 1505000,
+    "topic": "脏厥蛔厥乌梅丸",
+    "cue_range": [
+      327,
+      546
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 1505000,
+    "t_end_ms": 2050000,
+    "topic": "口称355 热少厥微指头寒",
+    "cue_range": [
+      546,
+      761
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 2050000,
+    "t_end_ms": 2121000,
+    "topic": "口称365 脉促手足厥可灸",
+    "cue_range": [
+      761,
+      790
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 2121000,
+    "t_end_ms": 2291000,
+    "topic": "脉滑而厥白虎",
+    "cue_range": [
+      790,
+      854
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 2291000,
+    "t_end_ms": 2711000,
+    "topic": "当归四逆",
+    "cue_range": [
+      854,
+      1019
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 2711000,
+    "t_end_ms": 3256000,
+    "topic": "口称367 内有久寒加吴茱萸生姜",
+    "cue_range": [
+      1019,
+      1236
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 3256000,
+    "t_end_ms": 3511000,
+    "topic": "麻黄升麻汤",
+    "cue_range": [
+      1236,
+      1329
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 3511000,
+    "t_end_ms": 3542000,
+    "topic": "口称373 转气自利",
+    "cue_range": [
+      1329,
+      1341
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 3542000,
+    "t_end_ms": 4056000,
+    "topic": "口称374 干姜黄连黄芩人参",
+    "cue_range": [
+      1341,
+      1540
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 4056000,
+    "t_end_ms": 4153000,
+    "topic": "口称357补 发热四日厥三日",
+    "cue_range": [
+      1540,
+      1575
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 4153000,
+    "t_end_ms": 4281000,
+    "topic": "口称358补 厥四日热三日病进",
+    "cue_range": [
+      1575,
+      1625
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 4281000,
+    "t_end_ms": 4345000,
+    "topic": "口称359 脉微厥冷灸厥阴",
+    "cue_range": [
+      1625,
+      1636
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 18,
+    "t_start_ms": 4345000,
+    "t_end_ms": 4473000,
+    "topic": "口称375 下利微热渴脉弱自愈",
+    "cue_range": [
+      1636,
+      1690
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 19,
+    "t_start_ms": 4473000,
+    "t_end_ms": 4778000,
+    "topic": "口称377/378 下利厥冷灸·趺阳",
+    "cue_range": [
+      1690,
+      1810
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 20,
+    "t_start_ms": 4778000,
+    "t_end_ms": 4850000,
+    "topic": "口称381 下利脉沉下重",
+    "cue_range": [
+      1810,
+      1839
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 21,
+    "t_start_ms": 4850000,
+    "t_end_ms": 4913000,
+    "topic": "口称382 下利脉沉迟戴阳",
+    "cue_range": [
+      1839,
+      1862
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 22,
+    "t_start_ms": 4913000,
+    "t_end_ms": 5027000,
+    "topic": "口称383 下利脉数而渴自愈",
+    "cue_range": [
+      1862,
+      1910
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 23,
+    "t_start_ms": 5027000,
+    "t_end_ms": 5056000,
+    "topic": "口称386 下利清谷",
+    "cue_range": [
+      1910,
+      1918
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 24,
+    "t_start_ms": 5056000,
+    "t_end_ms": 5184000,
+    "topic": "口称387 热利下重白头翁",
+    "cue_range": [
+      1918,
+      1976
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 25,
+    "t_start_ms": 5184000,
+    "t_end_ms": 5266000,
+    "topic": "口称388 下利腹胀满先温里",
+    "cue_range": [
+      1976,
+      2016
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 26,
+    "t_start_ms": 5266000,
+    "t_end_ms": 5318000,
+    "topic": "下利欲饮水白头翁",
+    "cue_range": [
+      2016,
+      2035
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 27,
+    "t_start_ms": 5318000,
+    "t_end_ms": 5342000,
+    "topic": "口称390 下利谵语有燥屎",
+    "cue_range": [
+      2035,
+      2046
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 28,
+    "t_start_ms": 5342000,
+    "t_end_ms": 5450000,
+    "topic": "下利后更烦栀子豉",
+    "cue_range": [
+      2046,
+      2094
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 29,
+    "t_start_ms": 5450000,
+    "t_end_ms": 5582000,
+    "topic": "口称393 呕而脉弱",
+    "cue_range": [
+      2094,
+      2141
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 30,
+    "t_start_ms": 5582000,
+    "t_end_ms": 5667000,
+    "topic": "吴茱萸汤",
+    "cue_range": [
+      2141,
+      2175
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 31,
+    "t_start_ms": 5667000,
+    "t_end_ms": 5842000,
+    "topic": "口称395 呕而发热小柴胡",
+    "cue_range": [
+      2175,
+      2248
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  },
+  {
+    "section": 32,
+    "t_start_ms": 5842000,
+    "t_end_ms": 6448000,
+    "topic": "口称397 哕而腹满视前后（金匮预告不进）",
+    "cue_range": [
+      2248,
+      2451
+    ],
+    "bvid": "BV1rL8xzAEWA"
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 120000,
+    "topic": "续防风（配黄耆）",
+    "cue_range": [
+      1,
+      38
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 120000,
+    "t_end_ms": 286000,
+    "topic": "第61–62味 蒲黄 / 香蒲",
+    "cue_range": [
+      38,
+      83
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 286000,
+    "t_end_ms": 747000,
+    "topic": "第63味 续断",
+    "cue_range": [
+      83,
+      235
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 747000,
+    "t_end_ms": 974000,
+    "topic": "第64味 漏芦",
+    "cue_range": [
+      235,
+      302
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 974000,
+    "t_end_ms": 1131000,
+    "topic": "第65味 营实",
+    "cue_range": [
+      302,
+      347
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 1131000,
+    "t_end_ms": 1270000,
+    "topic": "第66味 天名精",
+    "cue_range": [
+      347,
+      382
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 1270000,
+    "t_end_ms": 1404000,
+    "topic": "第67味 决明子",
+    "cue_range": [
+      382,
+      423
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 1404000,
+    "t_end_ms": 1718000,
+    "topic": "第68味 丹参",
+    "cue_range": [
+      423,
+      515
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 1718000,
+    "t_end_ms": 1990000,
+    "topic": "第69味 茜根",
+    "cue_range": [
+      515,
+      610
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 1990000,
+    "t_end_ms": 2065000,
+    "topic": "第70味 飞廉",
+    "cue_range": [
+      610,
+      628
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 2065000,
+    "t_end_ms": 2551000,
+    "topic": "第71味 五味子",
+    "cue_range": [
+      628,
+      785
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 2551000,
+    "t_end_ms": 2678000,
+    "topic": "第72味 旋花",
+    "cue_range": [
+      785,
+      825
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 2678000,
+    "t_end_ms": 2899000,
+    "topic": "第73味 兰草",
+    "cue_range": [
+      825,
+      913
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 2899000,
+    "t_end_ms": 3224000,
+    "topic": "第74味 蛇床子",
+    "cue_range": [
+      913,
+      1032
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 3224000,
+    "t_end_ms": 3367000,
+    "topic": "第75味 地肤子",
+    "cue_range": [
+      1032,
+      1066
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 3367000,
+    "t_end_ms": 3573000,
+    "topic": "第76味 景天",
+    "cue_range": [
+      1066,
+      1114
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 3573000,
+    "t_end_ms": 3805000,
+    "topic": "第77味 茵陈",
+    "cue_range": [
+      1114,
+      1168
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 18,
+    "t_start_ms": 3805000,
+    "t_end_ms": 3844000,
+    "topic": "第78味 杜若",
+    "cue_range": [
+      1168,
+      1176
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 19,
+    "t_start_ms": 3844000,
+    "t_end_ms": 4089000,
+    "topic": "第79味 沙参",
+    "cue_range": [
+      1176,
+      1245
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 20,
+    "t_start_ms": 4089000,
+    "t_end_ms": 4127000,
+    "topic": "第80味 白兔藿",
+    "cue_range": [
+      1245,
+      1253
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 21,
+    "t_start_ms": 4127000,
+    "t_end_ms": 4222000,
+    "topic": "第81味 徐长卿",
+    "cue_range": [
+      1253,
+      1276
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 22,
+    "t_start_ms": 4222000,
+    "t_end_ms": 4271000,
+    "topic": "第82味 石龙刍",
+    "cue_range": [
+      1276,
+      1290
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 23,
+    "t_start_ms": 4271000,
+    "t_end_ms": 4353000,
+    "topic": "第83味 薇衔",
+    "cue_range": [
+      1290,
+      1311
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 24,
+    "t_start_ms": 4353000,
+    "t_end_ms": 4523000,
+    "topic": "第84味 云实",
+    "cue_range": [
+      1311,
+      1353
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 25,
+    "t_start_ms": 4523000,
+    "t_end_ms": 4689000,
+    "topic": "第85味 王不留行",
+    "cue_range": [
+      1353,
+      1407
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 26,
+    "t_start_ms": 4689000,
+    "t_end_ms": 5018000,
+    "topic": "第86味 升麻",
+    "cue_range": [
+      1407,
+      1485
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 27,
+    "t_start_ms": 5018000,
+    "t_end_ms": 5214000,
+    "topic": "第88–91味 姑活 / 别羁 / 屈草 / 淮木",
+    "cue_range": [
+      1485,
+      1544
+    ],
+    "bvid": "BV1sP8czeEWu"
+  },
+  {
+    "section": 28,
+    "t_start_ms": 5214000,
+    "t_end_ms": 7041501,
+    "topic": "草上品收束 / 预告松脂",
+    "cue_range": [
+      1544,
+      2010
+    ],
+    "bvid": "BV1sP8czeEWu"
+  }
+]

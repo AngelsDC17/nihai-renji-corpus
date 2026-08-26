@@ -1,0 +1,57 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1510000,
+    "topic": "防己黄芪 / 越婢",
+    "cue_range": [
+      1,
+      624
+    ],
+    "bvid": "BV1v28izQESe"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1510000,
+    "t_end_ms": 2223000,
+    "topic": "防己茯苓 / 甘草麻黄 / 麻黄附子",
+    "cue_range": [
+      624,
+      872
+    ],
+    "bvid": "BV1v28izQESe"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2223000,
+    "t_end_ms": 2950000,
+    "topic": "黄汗 芪芍桂酒",
+    "cue_range": [
+      872,
+      1115
+    ],
+    "bvid": "BV1v28izQESe"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 2950000,
+    "t_end_ms": 4510000,
+    "topic": "枳术汤",
+    "cue_range": [
+      1115,
+      1734
+    ],
+    "bvid": "BV1v28izQESe"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 4510000,
+    "t_end_ms": 7053501,
+    "topic": "水气收束",
+    "cue_range": [
+      1734,
+      2648
+    ],
+    "bvid": "BV1v28izQESe"
+  }
+]

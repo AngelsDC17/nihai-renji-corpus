@@ -1,0 +1,46 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1779000,
+    "topic": "续条52–53 麻黄 / 自汗",
+    "cue_range": [
+      1,
+      998
+    ],
+    "bvid": "BV1vb8xzWETw"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1779000,
+    "t_end_ms": 3523000,
+    "topic": "发汗后变证（口称65–69）",
+    "cue_range": [
+      998,
+      1753
+    ],
+    "bvid": "BV1vb8xzWETw"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 3523000,
+    "t_end_ms": 5163000,
+    "topic": "条65–67 脐下悸 / 苓桂术甘",
+    "cue_range": [
+      1753,
+      2383
+    ],
+    "bvid": "BV1vb8xzWETw"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 5163000,
+    "t_end_ms": 7080501,
+    "topic": "条71–74 五苓散",
+    "cue_range": [
+      2383,
+      3191
+    ],
+    "bvid": "BV1vb8xzWETw"
+  }
+]

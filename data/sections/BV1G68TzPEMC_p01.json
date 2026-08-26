@@ -1,0 +1,35 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 2421000,
+    "topic": "素问·生气通天论（下）",
+    "cue_range": [
+      1,
+      757
+    ],
+    "bvid": "BV1G68TzPEMC"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 2421000,
+    "t_end_ms": 5806000,
+    "topic": "素问·金匮真言论",
+    "cue_range": [
+      757,
+      1699
+    ],
+    "bvid": "BV1G68TzPEMC"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 5806000,
+    "t_end_ms": 7027001,
+    "topic": "素问·阴阳应象大论（上）",
+    "cue_range": [
+      1699,
+      2020
+    ],
+    "bvid": "BV1G68TzPEMC"
+  }
+]

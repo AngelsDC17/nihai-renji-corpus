@@ -1,0 +1,46 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 2031000,
+    "topic": "素问·阴阳别论（下）",
+    "cue_range": [
+      1,
+      603
+    ],
+    "bvid": "BV1hA8TzbE5D"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 2031000,
+    "t_end_ms": 3018000,
+    "topic": "素问·灵兰秘典论",
+    "cue_range": [
+      603,
+      940
+    ],
+    "bvid": "BV1hA8TzbE5D"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 3018000,
+    "t_end_ms": 5817000,
+    "topic": "素问·六节藏象论",
+    "cue_range": [
+      940,
+      1703
+    ],
+    "bvid": "BV1hA8TzbE5D"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 5817000,
+    "t_end_ms": 7103001,
+    "topic": "素问·五脏生成（上）",
+    "cue_range": [
+      1703,
+      2131
+    ],
+    "bvid": "BV1hA8TzbE5D"
+  }
+]

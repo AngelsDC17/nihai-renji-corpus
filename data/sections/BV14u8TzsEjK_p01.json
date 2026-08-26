@@ -1,0 +1,46 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 10000,
+    "t_end_ms": 473000,
+    "topic": "素问·平人气象论（下）",
+    "cue_range": [
+      3,
+      161
+    ],
+    "bvid": "BV14u8TzsEjK"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 473000,
+    "t_end_ms": 4820000,
+    "topic": "素问·玉机真藏论",
+    "cue_range": [
+      161,
+      1599
+    ],
+    "bvid": "BV14u8TzsEjK"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 4820000,
+    "t_end_ms": 6550500,
+    "topic": "素问·三部九候论",
+    "cue_range": [
+      1599,
+      2138
+    ],
+    "bvid": "BV14u8TzsEjK"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 6550500,
+    "t_end_ms": 7138001,
+    "topic": "素问·经脉别论（上）",
+    "cue_range": [
+      2138,
+      2323
+    ],
+    "bvid": "BV14u8TzsEjK"
+  }
+]

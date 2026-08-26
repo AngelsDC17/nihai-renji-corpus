@@ -1,0 +1,255 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 737000,
+    "topic": "阴证总说 + 太阴提纲 口称287",
+    "cue_range": [
+      1,
+      238
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 737000,
+    "t_end_ms": 978000,
+    "topic": "口称288 / 290 太阴中风 · 脉浮可汗",
+    "cue_range": [
+      238,
+      339
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 978000,
+    "t_end_ms": 1318000,
+    "topic": "口称291 自利不渴属太阴",
+    "cue_range": [
+      339,
+      468
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1318000,
+    "t_end_ms": 1583000,
+    "topic": "口称292 手足自温系在太阴",
+    "cue_range": [
+      468,
+      559
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1583000,
+    "t_end_ms": 1878000,
+    "topic": "桂枝加芍药 / 加大黄",
+    "cue_range": [
+      559,
+      695
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 1878000,
+    "t_end_ms": 2202000,
+    "topic": "口称294 太阴脉弱",
+    "cue_range": [
+      695,
+      800
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 2202000,
+    "t_end_ms": 2286000,
+    "topic": "少阴提纲 脉微细但欲寐",
+    "cue_range": [
+      800,
+      834
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 2286000,
+    "t_end_ms": 2745000,
+    "topic": "口称296 少阴欲吐不吐",
+    "cue_range": [
+      834,
+      1015
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 2745000,
+    "t_end_ms": 2995000,
+    "topic": "口称297 脉阴阳俱紧",
+    "cue_range": [
+      1015,
+      1121
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 2995000,
+    "t_end_ms": 3133000,
+    "topic": "口称299 脉细沉数不可发汗",
+    "cue_range": [
+      1121,
+      1183
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 3133000,
+    "t_end_ms": 3447000,
+    "topic": "口称301 脉紧反去为欲解",
+    "cue_range": [
+      1183,
+      1308
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 3447000,
+    "t_end_ms": 3631000,
+    "topic": "口称303 恶寒而蜷 · 少阴欲解时",
+    "cue_range": [
+      1308,
+      1379
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 3631000,
+    "t_end_ms": 4150000,
+    "topic": "口称306 吐利手足不逆冷反发热",
+    "cue_range": [
+      1379,
+      1579
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 4150000,
+    "t_end_ms": 4198000,
+    "topic": "口称313 少阴六七日息高者死",
+    "cue_range": [
+      1579,
+      1607
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 4198000,
+    "t_end_ms": 4706000,
+    "topic": "口称314 死证",
+    "cue_range": [
+      1607,
+      1804
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 4706000,
+    "t_end_ms": 5797000,
+    "topic": "口称317 黄连阿胶汤",
+    "cue_range": [
+      1804,
+      2218
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 5797000,
+    "t_end_ms": 6046000,
+    "topic": "口称324 下利咽痛猪肤汤",
+    "cue_range": [
+      2218,
+      2325
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 18,
+    "t_start_ms": 6046000,
+    "t_end_ms": 6130000,
+    "topic": "口称325 甘草汤 / 桔梗汤",
+    "cue_range": [
+      2325,
+      2359
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 19,
+    "t_start_ms": 6130000,
+    "t_end_ms": 6521000,
+    "topic": "口称326 苦酒汤",
+    "cue_range": [
+      2359,
+      2492
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 20,
+    "t_start_ms": 6521000,
+    "t_end_ms": 6732000,
+    "topic": "半夏散及汤",
+    "cue_range": [
+      2492,
+      2576
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 21,
+    "t_start_ms": 6732000,
+    "t_end_ms": 6750000,
+    "topic": "桃花汤",
+    "cue_range": [
+      2576,
+      2583
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 22,
+    "t_start_ms": 6750000,
+    "t_end_ms": 6892000,
+    "topic": "白通汤",
+    "cue_range": [
+      2583,
+      2630
+    ],
+    "bvid": "BV1bc8xzCELd"
+  },
+  {
+    "section": 23,
+    "t_start_ms": 6892000,
+    "t_end_ms": 7106001,
+    "topic": "白通加猪胆汁汤",
+    "cue_range": [
+      2630,
+      2711
+    ],
+    "bvid": "BV1bc8xzCELd"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1727000,
+    "topic": "杂病续 / 带下",
+    "cue_range": [
+      1,
+      712
+    ],
+    "bvid": "BV1ow8izQEFu"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1727000,
+    "t_end_ms": 2316000,
+    "topic": "温经汤",
+    "cue_range": [
+      712,
+      958
+    ],
+    "bvid": "BV1ow8izQEFu"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2316000,
+    "t_end_ms": 2811000,
+    "topic": "土瓜根 / 胶姜汤",
+    "cue_range": [
+      958,
+      1153
+    ],
+    "bvid": "BV1ow8izQEFu"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 2811000,
+    "t_end_ms": 3197000,
+    "topic": "抵当汤",
+    "cue_range": [
+      1153,
+      1299
+    ],
+    "bvid": "BV1ow8izQEFu"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 3197000,
+    "t_end_ms": 3326000,
+    "topic": "红蓝花酒",
+    "cue_range": [
+      1299,
+      1350
+    ],
+    "bvid": "BV1ow8izQEFu"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 3326000,
+    "t_end_ms": 4082000,
+    "topic": "转胞 肾气丸",
+    "cue_range": [
+      1350,
+      1623
+    ],
+    "bvid": "BV1ow8izQEFu"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 4082000,
+    "t_end_ms": 4408000,
+    "topic": "蛇床子散 / 狼牙汤",
+    "cue_range": [
+      1623,
+      1746
+    ],
+    "bvid": "BV1ow8izQEFu"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 4408000,
+    "t_end_ms": 5000000,
+    "topic": "阴阳易差后劳复提纲",
+    "cue_range": [
+      1746,
+      1941
+    ],
+    "bvid": "BV1ow8izQEFu"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 5000000,
+    "t_end_ms": 7092001,
+    "topic": "烧裩散 / 牡蛎泽泻 / 差后",
+    "cue_range": [
+      1941,
+      2694
+    ],
+    "bvid": "BV1ow8izQEFu"
+  }
+]

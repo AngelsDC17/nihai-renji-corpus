@@ -1,0 +1,112 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 11000,
+    "t_end_ms": 1390000,
+    "topic": "素问·脉解（下）",
+    "cue_range": [
+      3,
+      465
+    ],
+    "bvid": "BV1EU8MzmEr9"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1390000,
+    "t_end_ms": 1850000,
+    "topic": "素问·刺要论",
+    "cue_range": [
+      465,
+      627
+    ],
+    "bvid": "BV1EU8MzmEr9"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1850000,
+    "t_end_ms": 1946000,
+    "topic": "素问·刺齐论",
+    "cue_range": [
+      627,
+      652
+    ],
+    "bvid": "BV1EU8MzmEr9"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1946000,
+    "t_end_ms": 2559000,
+    "topic": "素问·刺禁论",
+    "cue_range": [
+      652,
+      855
+    ],
+    "bvid": "BV1EU8MzmEr9"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 2559000,
+    "t_end_ms": 2932000,
+    "topic": "素问·刺志论",
+    "cue_range": [
+      855,
+      971
+    ],
+    "bvid": "BV1EU8MzmEr9"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2932000,
+    "t_end_ms": 3628000,
+    "topic": "素问·针解",
+    "cue_range": [
+      971,
+      1190
+    ],
+    "bvid": "BV1EU8MzmEr9"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 3628000,
+    "t_end_ms": 4806000,
+    "topic": "素问·长刺节论",
+    "cue_range": [
+      1190,
+      1571
+    ],
+    "bvid": "BV1EU8MzmEr9"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 4806000,
+    "t_end_ms": 5858000,
+    "topic": "素问·皮部论",
+    "cue_range": [
+      1571,
+      1902
+    ],
+    "bvid": "BV1EU8MzmEr9"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 5858000,
+    "t_end_ms": 6008000,
+    "topic": "素问·经络论",
+    "cue_range": [
+      1902,
+      1939
+    ],
+    "bvid": "BV1EU8MzmEr9"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 6008000,
+    "t_end_ms": 6828501,
+    "topic": "素问·气穴论",
+    "cue_range": [
+      1939,
+      2207
+    ],
+    "bvid": "BV1EU8MzmEr9"
+  }
+]

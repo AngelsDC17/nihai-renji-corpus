@@ -1,0 +1,90 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 569000,
+    "topic": "十枣汤续",
+    "cue_range": [
+      1,
+      208
+    ],
+    "bvid": "BV1aX8izmEoj"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 569000,
+    "t_end_ms": 970000,
+    "topic": "溢饮 大小青龙",
+    "cue_range": [
+      208,
+      387
+    ],
+    "bvid": "BV1aX8izmEoj"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 970000,
+    "t_end_ms": 1937000,
+    "topic": "支饮 木防己汤",
+    "cue_range": [
+      387,
+      744
+    ],
+    "bvid": "BV1aX8izmEoj"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1937000,
+    "t_end_ms": 2457000,
+    "topic": "泽泻汤 / 厚朴大黄",
+    "cue_range": [
+      744,
+      923
+    ],
+    "bvid": "BV1aX8izmEoj"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 2457000,
+    "t_end_ms": 3341000,
+    "topic": "小半夏 / 五苓",
+    "cue_range": [
+      923,
+      1263
+    ],
+    "bvid": "BV1aX8izmEoj"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 3341000,
+    "t_end_ms": 4951000,
+    "topic": "支饮再辨 / 小青龙",
+    "cue_range": [
+      1263,
+      2014
+    ],
+    "bvid": "BV1aX8izmEoj"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 4951000,
+    "t_end_ms": 6347000,
+    "topic": "消渴提纲",
+    "cue_range": [
+      2014,
+      2550
+    ],
+    "bvid": "BV1aX8izmEoj"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 6347000,
+    "t_end_ms": 7095001,
+    "topic": "肾气丸 / 五苓 / 文蛤",
+    "cue_range": [
+      2550,
+      2798
+    ],
+    "bvid": "BV1aX8izmEoj"
+  }
+]

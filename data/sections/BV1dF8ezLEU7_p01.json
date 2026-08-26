@@ -1,0 +1,222 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1364000,
+    "topic": "第二篇湿家续",
+    "cue_range": [
+      1,
+      612
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1364000,
+    "t_end_ms": 2301000,
+    "topic": "第二篇暍（太阳中暍 / 白虎 / 瓜蒂）",
+    "cue_range": [
+      612,
+      1080
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2301000,
+    "t_end_ms": 3000000,
+    "topic": "百合病提纲 / 百合地黄汤",
+    "cue_range": [
+      1080,
+      1368
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 3000000,
+    "t_end_ms": 3194000,
+    "topic": "百合病发汗后 百合知母汤",
+    "cue_range": [
+      1368,
+      1441
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 3194000,
+    "t_end_ms": 3273000,
+    "topic": "误下 / 误吐 滑石代赭",
+    "cue_range": [
+      1441,
+      1473
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 3273000,
+    "t_end_ms": 3352000,
+    "topic": "百合鸡子汤",
+    "cue_range": [
+      1473,
+      1508
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 3352000,
+    "t_end_ms": 3437000,
+    "topic": "百合洗方",
+    "cue_range": [
+      1508,
+      1541
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 3437000,
+    "t_end_ms": 3580000,
+    "topic": "渴不解 栝蒌牡蛎散",
+    "cue_range": [
+      1541,
+      1595
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 3580000,
+    "t_end_ms": 3631000,
+    "topic": "百合病变发热 滑石散",
+    "cue_range": [
+      1595,
+      1611
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 3631000,
+    "t_end_ms": 3757000,
+    "topic": "见于阴者以阳法救之",
+    "cue_range": [
+      1611,
+      1660
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 3757000,
+    "t_end_ms": 4189000,
+    "topic": "狐惑 / 甘草泻心汤",
+    "cue_range": [
+      1660,
+      1857
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 4189000,
+    "t_end_ms": 4654000,
+    "topic": "蚀于下部 苦参汤 / 雄黄熏",
+    "cue_range": [
+      1857,
+      2068
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 4654000,
+    "t_end_ms": 5165000,
+    "topic": "脓已成 赤豆当归散",
+    "cue_range": [
+      2068,
+      2312
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 5165000,
+    "t_end_ms": 5797000,
+    "topic": "阴阳毒 升麻鳖甲汤",
+    "cue_range": [
+      2312,
+      2522
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 5797000,
+    "t_end_ms": 6003000,
+    "topic": "疟病提纲 / 疟脉",
+    "cue_range": [
+      2522,
+      2584
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 6003000,
+    "t_end_ms": 6154000,
+    "topic": "疟母 鳖甲煎丸",
+    "cue_range": [
+      2584,
+      2644
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 6154000,
+    "t_end_ms": 6272000,
+    "topic": "瘅疟",
+    "cue_range": [
+      2644,
+      2685
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 18,
+    "t_start_ms": 6272000,
+    "t_end_ms": 6401000,
+    "topic": "温疟 白虎加桂枝汤",
+    "cue_range": [
+      2685,
+      2736
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 19,
+    "t_start_ms": 6401000,
+    "t_end_ms": 6575000,
+    "topic": "牡疟 蜀漆散",
+    "cue_range": [
+      2736,
+      2798
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  },
+  {
+    "section": 20,
+    "t_start_ms": 6575000,
+    "t_end_ms": 6742000,
+    "topic": "附方 牡蛎汤 / 劳疟 / 柴胡姜桂汤",
+    "cue_range": [
+      2798,
+      2859
+    ],
+    "bvid": "BV1dF8ezLEU7"
+  }
+]

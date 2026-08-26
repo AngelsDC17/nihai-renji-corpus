@@ -1,0 +1,167 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 700000,
+    "topic": "胸痹收束（金07）",
+    "cue_range": [
+      1,
+      285
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 700000,
+    "t_end_ms": 2131000,
+    "topic": "腹满提纲",
+    "cue_range": [
+      285,
+      844
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2131000,
+    "t_end_ms": 2602000,
+    "topic": "厚朴七物汤",
+    "cue_range": [
+      844,
+      1023
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 2602000,
+    "t_end_ms": 2664000,
+    "topic": "附子粳米汤",
+    "cue_range": [
+      1023,
+      1037
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 2664000,
+    "t_end_ms": 2921000,
+    "topic": "厚朴三物汤",
+    "cue_range": [
+      1037,
+      1127
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2921000,
+    "t_end_ms": 3342000,
+    "topic": "大柴胡汤",
+    "cue_range": [
+      1127,
+      1292
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 3342000,
+    "t_end_ms": 3473000,
+    "topic": "腹满不减 大承气汤",
+    "cue_range": [
+      1292,
+      1351
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 3473000,
+    "t_end_ms": 3794000,
+    "topic": "大建中汤",
+    "cue_range": [
+      1351,
+      1465
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 3794000,
+    "t_end_ms": 4046000,
+    "topic": "大黄附子汤",
+    "cue_range": [
+      1465,
+      1541
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 4046000,
+    "t_end_ms": 4345000,
+    "topic": "赤丸",
+    "cue_range": [
+      1541,
+      1661
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 4345000,
+    "t_end_ms": 4846000,
+    "topic": "寒疝 / 乌头煎",
+    "cue_range": [
+      1661,
+      1877
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 4846000,
+    "t_end_ms": 5492000,
+    "topic": "当归生姜羊肉汤",
+    "cue_range": [
+      1877,
+      2116
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 5492000,
+    "t_end_ms": 5902000,
+    "topic": "宿食 / 大承气",
+    "cue_range": [
+      2116,
+      2277
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 5902000,
+    "t_end_ms": 6182000,
+    "topic": "瓜蒂散",
+    "cue_range": [
+      2277,
+      2372
+    ],
+    "bvid": "BV16i8izbEfL"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 6182000,
+    "t_end_ms": 7062501,
+    "topic": "五脏风寒提纲 / 旋覆花汤",
+    "cue_range": [
+      2372,
+      2712
+    ],
+    "bvid": "BV16i8izbEfL"
+  }
+]

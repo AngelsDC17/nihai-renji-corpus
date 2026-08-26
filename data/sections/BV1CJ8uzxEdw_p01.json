@@ -1,0 +1,57 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 18000,
+    "t_end_ms": 359000,
+    "topic": "素问·举痛论（下）",
+    "cue_range": [
+      6,
+      114
+    ],
+    "bvid": "BV1CJ8uzxEdw"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 359000,
+    "t_end_ms": 2454000,
+    "topic": "素问·腹中论",
+    "cue_range": [
+      114,
+      812
+    ],
+    "bvid": "BV1CJ8uzxEdw"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2454000,
+    "t_end_ms": 3887000,
+    "topic": "素问·刺腰痛",
+    "cue_range": [
+      812,
+      1249
+    ],
+    "bvid": "BV1CJ8uzxEdw"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 3887000,
+    "t_end_ms": 5465000,
+    "topic": "素问·风论",
+    "cue_range": [
+      1249,
+      1792
+    ],
+    "bvid": "BV1CJ8uzxEdw"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 5465000,
+    "t_end_ms": 7086001,
+    "topic": "素问·痹论",
+    "cue_range": [
+      1792,
+      2318
+    ],
+    "bvid": "BV1CJ8uzxEdw"
+  }
+]

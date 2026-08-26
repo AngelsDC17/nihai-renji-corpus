@@ -1,0 +1,288 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 57000,
+    "topic": "衣鱼 / 白鱼（正篇漏补）",
+    "cue_range": [
+      1,
+      15
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 57000,
+    "t_end_ms": 668000,
+    "topic": "桃仁（正篇漏补；夹西医补铁旁出不立铁锚）",
+    "cue_range": [
+      15,
+      206
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 668000,
+    "t_end_ms": 1338000,
+    "topic": "杏仁（正篇漏补）",
+    "cue_range": [
+      206,
+      412
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1338000,
+    "t_end_ms": 1553000,
+    "topic": "增补第1 青盐 / 戎盐",
+    "cue_range": [
+      412,
+      474
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1553000,
+    "t_end_ms": 1949000,
+    "topic": "增补第2 诃黎勒 / 诃子",
+    "cue_range": [
+      474,
+      575
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 1949000,
+    "t_end_ms": 2117000,
+    "topic": "增补第4 蜘蛛",
+    "cue_range": [
+      575,
+      618
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 2117000,
+    "t_end_ms": 2272000,
+    "topic": "增补第5 赤小豆",
+    "cue_range": [
+      618,
+      646
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 2272000,
+    "t_end_ms": 2481000,
+    "topic": "增补第6 艾叶",
+    "cue_range": [
+      646,
+      700
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 2481000,
+    "t_end_ms": 2652000,
+    "topic": "增补第7 紫苏",
+    "cue_range": [
+      700,
+      751
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 2652000,
+    "t_end_ms": 2822000,
+    "topic": "增补第8 饴糖",
+    "cue_range": [
+      751,
+      788
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 2822000,
+    "t_end_ms": 2963000,
+    "topic": "增补第9 柏叶",
+    "cue_range": [
+      788,
+      823
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 2963000,
+    "t_end_ms": 3082000,
+    "topic": "增补第10 豆豉",
+    "cue_range": [
+      823,
+      844
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 3082000,
+    "t_end_ms": 3220000,
+    "topic": "增补第11 鸡屎白",
+    "cue_range": [
+      844,
+      877
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 3240000,
+    "t_end_ms": 3401000,
+    "topic": "增补第13 没药",
+    "cue_range": [
+      882,
+      922
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 3401000,
+    "t_end_ms": 3560000,
+    "topic": "增补第14 乳香",
+    "cue_range": [
+      922,
+      967
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 3560000,
+    "t_end_ms": 3694000,
+    "topic": "增补第15 白芷（不回填正篇号）",
+    "cue_range": [
+      967,
+      992
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 3694000,
+    "t_end_ms": 3942000,
+    "topic": "增补第16 粳米",
+    "cue_range": [
+      992,
+      1061
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 18,
+    "t_start_ms": 3942000,
+    "t_end_ms": 4100000,
+    "topic": "增补第17 李根白皮",
+    "cue_range": [
+      1061,
+      1104
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 19,
+    "t_start_ms": 4100000,
+    "t_end_ms": 4467000,
+    "topic": "增补第19 鸡子黄（夹阿胶）",
+    "cue_range": [
+      1104,
+      1228
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 20,
+    "t_start_ms": 4467000,
+    "t_end_ms": 4584000,
+    "topic": "增补第20 猪胆 / 猪肤",
+    "cue_range": [
+      1228,
+      1259
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 21,
+    "t_start_ms": 4584000,
+    "t_end_ms": 4784000,
+    "topic": "增补第21 郁金",
+    "cue_range": [
+      1259,
+      1309
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 22,
+    "t_start_ms": 4784000,
+    "t_end_ms": 4914000,
+    "topic": "增补第22 木通（夹充蔚回顾不回填）",
+    "cue_range": [
+      1309,
+      1342
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 23,
+    "t_start_ms": 4914000,
+    "t_end_ms": 4968000,
+    "topic": "增补第23 新绛",
+    "cue_range": [
+      1342,
+      1357
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 24,
+    "t_start_ms": 4968000,
+    "t_end_ms": 5147000,
+    "topic": "增补第24 薤白",
+    "cue_range": [
+      1357,
+      1398
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 25,
+    "t_start_ms": 5147000,
+    "t_end_ms": 5326000,
+    "topic": "增补第25 白前",
+    "cue_range": [
+      1398,
+      1451
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  },
+  {
+    "section": 26,
+    "t_start_ms": 5326000,
+    "t_end_ms": 5687000,
+    "topic": "增补第27 小麦 / 甘麦大枣（金匮预告不进）",
+    "cue_range": [
+      1451,
+      1568
+    ],
+    "bvid": "BV1zR8cz8Evp"
+  }
+]

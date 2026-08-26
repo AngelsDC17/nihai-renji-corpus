@@ -1,0 +1,123 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1010000,
+    "topic": "半夏（下品草部起）",
+    "cue_range": [
+      1,
+      325
+    ],
+    "bvid": "BV1Tr8czuEws"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1010000,
+    "t_end_ms": 1511000,
+    "topic": "口称260 虎掌 / 天南星",
+    "cue_range": [
+      325,
+      474
+    ],
+    "bvid": "BV1Tr8czuEws"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1511000,
+    "t_end_ms": 2453000,
+    "topic": "大黄（下品）",
+    "cue_range": [
+      474,
+      788
+    ],
+    "bvid": "BV1Tr8czuEws"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 2453000,
+    "t_end_ms": 3237000,
+    "topic": "葶苈子",
+    "cue_range": [
+      788,
+      1020
+    ],
+    "bvid": "BV1Tr8czuEws"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 3237000,
+    "t_end_ms": 3443000,
+    "topic": "草蒿",
+    "cue_range": [
+      1020,
+      1066
+    ],
+    "bvid": "BV1Tr8czuEws"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 3443000,
+    "t_end_ms": 3666000,
+    "topic": "旋覆花",
+    "cue_range": [
+      1066,
+      1123
+    ],
+    "bvid": "BV1Tr8czuEws"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 3666000,
+    "t_end_ms": 3766000,
+    "topic": "口称376 黎芦",
+    "cue_range": [
+      1123,
+      1147
+    ],
+    "bvid": "BV1Tr8czuEws"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 3766000,
+    "t_end_ms": 3947000,
+    "topic": "口称278 钩吻（夹射干）",
+    "cue_range": [
+      1147,
+      1198
+    ],
+    "bvid": "BV1Tr8czuEws"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 3947000,
+    "t_end_ms": 4146000,
+    "topic": "口称279 恒山 / 蜀漆 / 常山",
+    "cue_range": [
+      1198,
+      1240
+    ],
+    "bvid": "BV1Tr8czuEws"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 4146000,
+    "t_end_ms": 4860000,
+    "topic": "口称282 甘遂",
+    "cue_range": [
+      1240,
+      1431
+    ],
+    "bvid": "BV1Tr8czuEws"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 4860000,
+    "t_end_ms": 5054481,
+    "topic": "白敛",
+    "cue_range": [
+      1431,
+      1477
+    ],
+    "bvid": "BV1Tr8czuEws"
+  }
+]

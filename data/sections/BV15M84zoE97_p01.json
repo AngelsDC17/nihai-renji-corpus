@@ -1,0 +1,200 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 506000,
+    "topic": "条14 桂枝加葛根（伤02 续）",
+    "cue_range": [
+      1,
+      179
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 504000,
+    "t_end_ms": 786000,
+    "topic": "条15 气上冲",
+    "cue_range": [
+      179,
+      262
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 784500,
+    "t_end_ms": 1103000,
+    "topic": "条16 坏病",
+    "cue_range": [
+      261,
+      356
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1101500,
+    "t_end_ms": 1200000,
+    "topic": "条17 酒客",
+    "cue_range": [
+      355,
+      381
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1198500,
+    "t_end_ms": 1324000,
+    "topic": "条18 喘家",
+    "cue_range": [
+      381,
+      419
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 1321500,
+    "t_end_ms": 1354000,
+    "topic": "条19 吐家",
+    "cue_range": [
+      419,
+      433
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 1352500,
+    "t_end_ms": 1703000,
+    "topic": "条20 桂枝加附子",
+    "cue_range": [
+      432,
+      545
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 1701500,
+    "t_end_ms": 1928000,
+    "topic": "条21 去芍药",
+    "cue_range": [
+      545,
+      615
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 1704500,
+    "t_end_ms": 2008000,
+    "topic": "条22 去芍药加附子",
+    "cue_range": [
+      545,
+      638
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 2006000,
+    "t_end_ms": 2779000,
+    "topic": "条23 各半汤",
+    "cue_range": [
+      638,
+      853
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 2777500,
+    "t_end_ms": 3064000,
+    "topic": "条24 风池风府",
+    "cue_range": [
+      853,
+      923
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 2891500,
+    "t_end_ms": 3301000,
+    "topic": "条25 桂枝二麻黄一",
+    "cue_range": [
+      882,
+      1000
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 3301000,
+    "t_end_ms": 3804000,
+    "topic": "条26 白虎加人参",
+    "cue_range": [
+      1000,
+      1152
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 3802000,
+    "t_end_ms": 4471000,
+    "topic": "条27 桂枝二越婢一",
+    "cue_range": [
+      1152,
+      1357
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 4469500,
+    "t_end_ms": 4785000,
+    "topic": "条28 去桂加苓术",
+    "cue_range": [
+      1356,
+      1462
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 4783500,
+    "t_end_ms": 6842000,
+    "topic": "条29 误治四汤",
+    "cue_range": [
+      1461,
+      2162
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 6840000,
+    "t_end_ms": 7042000,
+    "topic": "条30 证象阳旦",
+    "cue_range": [
+      2161,
+      2222
+    ],
+    "bvid": "BV15M84zoE97"
+  },
+  {
+    "section": 18,
+    "t_start_ms": 7040000,
+    "t_end_ms": 7146500,
+    "topic": "中篇入口（条31 预告，不抽本篇判语）",
+    "cue_range": [
+      2222,
+      2247
+    ],
+    "bvid": "BV15M84zoE97"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 3000,
+    "t_end_ms": 228000,
+    "topic": "素问·著至教论（上，开篇）",
+    "cue_range": [
+      2,
+      74
+    ],
+    "bvid": "BV1ZD8MzLE8n"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 5547000,
+    "t_end_ms": 5593000,
+    "topic": "素问·著至教论（上，收束回篇）",
+    "cue_range": [
+      1771,
+      1781
+    ],
+    "bvid": "BV1ZD8MzLE8n"
+  }
+]

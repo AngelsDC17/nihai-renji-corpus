@@ -1,0 +1,145 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1630000,
+    "topic": "条177 炙甘草 / 小建中（太阳收束）",
+    "cue_range": [
+      1,
+      627
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1630000,
+    "t_end_ms": 2232000,
+    "topic": "条179 太阳阳明 / 正阳阳明 / 少阳阳明",
+    "cue_range": [
+      627,
+      852
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2232000,
+    "t_end_ms": 2440000,
+    "topic": "条180 胃家实",
+    "cue_range": [
+      852,
+      907
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 2440000,
+    "t_end_ms": 2534000,
+    "topic": "条181–182 何缘得阳明 / 外证",
+    "cue_range": [
+      907,
+      936
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 2534000,
+    "t_end_ms": 2819000,
+    "topic": "条183–184 一日恶寒 / 恶寒自罢",
+    "cue_range": [
+      936,
+      1096
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2819000,
+    "t_end_ms": 3189000,
+    "topic": "条185–187 汗出不彻 / 阳明脉大",
+    "cue_range": [
+      1096,
+      1293
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 3189000,
+    "t_end_ms": 3419000,
+    "topic": "条188–189 濈然汗出 / 阳明中风",
+    "cue_range": [
+      1293,
+      1402
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 3419000,
+    "t_end_ms": 3667000,
+    "topic": "条190–191 中寒不能食 / 欲作固瘕",
+    "cue_range": [
+      1402,
+      1507
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 3667000,
+    "t_end_ms": 4021000,
+    "topic": "条192 能食汗出而解",
+    "cue_range": [
+      1507,
+      1700
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 4021000,
+    "t_end_ms": 5181000,
+    "topic": "条196–206 一带承气宜禁",
+    "cue_range": [
+      1700,
+      2310
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 5181000,
+    "t_end_ms": 5441000,
+    "topic": "条207 调胃承气",
+    "cue_range": [
+      2310,
+      2424
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 5441000,
+    "t_end_ms": 6446000,
+    "topic": "条208–209 小承气 / 大承气",
+    "cue_range": [
+      2424,
+      2913
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 6446000,
+    "t_end_ms": 7148001,
+    "topic": "条247 脾约麻子仁丸",
+    "cue_range": [
+      2913,
+      3285
+    ],
+    "bvid": "BV1TA8xzGE9T"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 16000,
+    "t_end_ms": 2842000,
+    "topic": "素问·五脏生成（下）",
+    "cue_range": [
+      2,
+      894
+    ],
+    "bvid": "BV1Vo8KzeEc4"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 2842000,
+    "t_end_ms": 3759000,
+    "topic": "素问·五脏别论",
+    "cue_range": [
+      894,
+      1191
+    ],
+    "bvid": "BV1Vo8KzeEc4"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 3759000,
+    "t_end_ms": 4328000,
+    "topic": "素问·异法方宜论",
+    "cue_range": [
+      1191,
+      1379
+    ],
+    "bvid": "BV1Vo8KzeEc4"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 4328000,
+    "t_end_ms": 5412000,
+    "topic": "素问·移精变气论",
+    "cue_range": [
+      1379,
+      1722
+    ],
+    "bvid": "BV1Vo8KzeEc4"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 5412000,
+    "t_end_ms": 6368000,
+    "topic": "素问·汤液醪醴论",
+    "cue_range": [
+      1722,
+      1987
+    ],
+    "bvid": "BV1Vo8KzeEc4"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 6368000,
+    "t_end_ms": 7162501,
+    "topic": "素问·玉版论要（上）",
+    "cue_range": [
+      1987,
+      2200
+    ],
+    "bvid": "BV1Vo8KzeEc4"
+  }
+]

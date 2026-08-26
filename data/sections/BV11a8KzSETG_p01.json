@@ -1,0 +1,57 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 24000,
+    "t_end_ms": 858000,
+    "topic": "素问·经脉别论（下）",
+    "cue_range": [
+      4,
+      237
+    ],
+    "bvid": "BV11a8KzSETG"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 858000,
+    "t_end_ms": 3582000,
+    "topic": "素问·脏气法时论",
+    "cue_range": [
+      237,
+      1061
+    ],
+    "bvid": "BV11a8KzSETG"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 3582000,
+    "t_end_ms": 5022000,
+    "topic": "素问·宣明五气",
+    "cue_range": [
+      1061,
+      1560
+    ],
+    "bvid": "BV11a8KzSETG"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 5022000,
+    "t_end_ms": 6830000,
+    "topic": "素问·血气形志",
+    "cue_range": [
+      1560,
+      2125
+    ],
+    "bvid": "BV11a8KzSETG"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 6830000,
+    "t_end_ms": 7147501,
+    "topic": "素问·八正神明论（上）",
+    "cue_range": [
+      2125,
+      2213
+    ],
+    "bvid": "BV11a8KzSETG"
+  }
+]

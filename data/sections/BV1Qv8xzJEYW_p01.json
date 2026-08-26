@@ -1,0 +1,156 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 342000,
+    "topic": "条158 甘草泻心",
+    "cue_range": [
+      1,
+      131
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 342000,
+    "t_end_ms": 1188000,
+    "topic": "条159 赤石脂禹余粮",
+    "cue_range": [
+      131,
+      474
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1188000,
+    "t_end_ms": 1614000,
+    "topic": "条161 旋覆代赭",
+    "cue_range": [
+      474,
+      652
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1614000,
+    "t_end_ms": 1837000,
+    "topic": "条162 下后不可更行桂枝",
+    "cue_range": [
+      652,
+      739
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1837000,
+    "t_end_ms": 2271000,
+    "topic": "条163 桂枝人参",
+    "cue_range": [
+      739,
+      896
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2271000,
+    "t_end_ms": 2526000,
+    "topic": "条164 大下后汗心下痞",
+    "cue_range": [
+      896,
+      993
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 2526000,
+    "t_end_ms": 3675000,
+    "topic": "条166 瓜蒂散",
+    "cue_range": [
+      993,
+      1388
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 3675000,
+    "t_end_ms": 3887000,
+    "topic": "条165 大柴胡",
+    "cue_range": [
+      1388,
+      1467
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 3887000,
+    "t_end_ms": 4589000,
+    "topic": "条168–170 白虎加人参一带",
+    "cue_range": [
+      1467,
+      1718
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 4589000,
+    "t_end_ms": 5062000,
+    "topic": "条173 黄连汤",
+    "cue_range": [
+      1718,
+      1882
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 5062000,
+    "t_end_ms": 6012000,
+    "topic": "条174 桂枝附子",
+    "cue_range": [
+      1882,
+      2258
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 6012000,
+    "t_end_ms": 6457000,
+    "topic": "条175 甘草附子",
+    "cue_range": [
+      2258,
+      2443
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 6457000,
+    "t_end_ms": 6937000,
+    "topic": "条176 白虎（口称应入阳明）",
+    "cue_range": [
+      2443,
+      2606
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 6937000,
+    "t_end_ms": 7070501,
+    "topic": "条177 炙甘草（伤10续）",
+    "cue_range": [
+      2606,
+      2658
+    ],
+    "bvid": "BV1Qv8xzJEYW"
+  }
+]

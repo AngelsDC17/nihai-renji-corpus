@@ -1,0 +1,35 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 11000,
+    "t_end_ms": 2586000,
+    "topic": "素问·痿论",
+    "cue_range": [
+      2,
+      804
+    ],
+    "bvid": "BV1pp8uzWEwY"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 2586000,
+    "t_end_ms": 5658000,
+    "topic": "素问·厥论",
+    "cue_range": [
+      804,
+      1765
+    ],
+    "bvid": "BV1pp8uzWEwY"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 5658000,
+    "t_end_ms": 7185001,
+    "topic": "素问·病能论（上）",
+    "cue_range": [
+      1765,
+      2263
+    ],
+    "bvid": "BV1pp8uzWEwY"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 464000,
+    "topic": "第27味 牛膝（下）",
+    "cue_range": [
+      1,
+      138
+    ],
+    "bvid": "BV1Ui8czkECk"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 464000,
+    "t_end_ms": 1376000,
+    "topic": "第28味 川牛膝 / 旁出",
+    "cue_range": [
+      138,
+      415
+    ],
+    "bvid": "BV1Ui8czkECk"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1376000,
+    "t_end_ms": 2294000,
+    "topic": "第30味 防葵（前夹玉竹）",
+    "cue_range": [
+      415,
+      676
+    ],
+    "bvid": "BV1Ui8czkECk"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 2294000,
+    "t_end_ms": 2718000,
+    "topic": "第32味 麦门冬",
+    "cue_range": [
+      676,
+      799
+    ],
+    "bvid": "BV1Ui8czkECk"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 2718000,
+    "t_end_ms": 3124000,
+    "topic": "第33味 独活",
+    "cue_range": [
+      799,
+      927
+    ],
+    "bvid": "BV1Ui8czkECk"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 3124000,
+    "t_end_ms": 4506000,
+    "topic": "第34味 车前子",
+    "cue_range": [
+      927,
+      1356
+    ],
+    "bvid": "BV1Ui8czkECk"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 4506000,
+    "t_end_ms": 4875000,
+    "topic": "第36味 薯蓣",
+    "cue_range": [
+      1356,
+      1469
+    ],
+    "bvid": "BV1Ui8czkECk"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 4875000,
+    "t_end_ms": 6229000,
+    "topic": "第37味 薏苡仁",
+    "cue_range": [
+      1469,
+      1854
+    ],
+    "bvid": "BV1Ui8czkECk"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 6229000,
+    "t_end_ms": 6736000,
+    "topic": "第39味 远志",
+    "cue_range": [
+      1854,
+      1983
+    ],
+    "bvid": "BV1Ui8czkECk"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 6736000,
+    "t_end_ms": 7164001,
+    "topic": "第40味 龙胆",
+    "cue_range": [
+      1983,
+      2126
+    ],
+    "bvid": "BV1Ui8czkECk"
+  }
+]

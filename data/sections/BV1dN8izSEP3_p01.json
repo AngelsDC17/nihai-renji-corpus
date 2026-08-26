@@ -1,0 +1,101 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1282000,
+    "topic": "吐血续 / 瘀血当下",
+    "cue_range": [
+      1,
+      467
+    ],
+    "bvid": "BV1dN8izSEP3"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1282000,
+    "t_end_ms": 2148000,
+    "topic": "柏叶汤",
+    "cue_range": [
+      467,
+      747
+    ],
+    "bvid": "BV1dN8izSEP3"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2148000,
+    "t_end_ms": 2866000,
+    "topic": "黄土汤",
+    "cue_range": [
+      747,
+      950
+    ],
+    "bvid": "BV1dN8izSEP3"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 2866000,
+    "t_end_ms": 3091000,
+    "topic": "赤豆当归散",
+    "cue_range": [
+      950,
+      1008
+    ],
+    "bvid": "BV1dN8izSEP3"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 3091000,
+    "t_end_ms": 3565000,
+    "topic": "泻心汤",
+    "cue_range": [
+      1008,
+      1132
+    ],
+    "bvid": "BV1dN8izSEP3"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 3565000,
+    "t_end_ms": 4479000,
+    "topic": "呕吐哕下利提纲 / 小半夏",
+    "cue_range": [
+      1132,
+      1498
+    ],
+    "bvid": "BV1dN8izSEP3"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 4479000,
+    "t_end_ms": 5037000,
+    "topic": "茯苓四逆 / 吴茱萸",
+    "cue_range": [
+      1498,
+      1712
+    ],
+    "bvid": "BV1dN8izSEP3"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 5037000,
+    "t_end_ms": 6184000,
+    "topic": "诸泻心 / 下利",
+    "cue_range": [
+      1712,
+      2111
+    ],
+    "bvid": "BV1dN8izSEP3"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 6184000,
+    "t_end_ms": 7106501,
+    "topic": "大半夏汤",
+    "cue_range": [
+      2111,
+      2444
+    ],
+    "bvid": "BV1dN8izSEP3"
+  }
+]

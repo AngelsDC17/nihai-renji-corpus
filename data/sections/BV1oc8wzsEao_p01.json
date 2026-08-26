@@ -1,0 +1,365 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 36000,
+    "topic": "口称285 藿菌（开场夹青葙回顾）",
+    "cue_range": [
+      1,
+      7
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 36000,
+    "t_end_ms": 404000,
+    "topic": "白及",
+    "cue_range": [
+      7,
+      115
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 404000,
+    "t_end_ms": 919000,
+    "topic": "大戟（夹甘遂芫花回顾）",
+    "cue_range": [
+      115,
+      247
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 919000,
+    "t_end_ms": 1096000,
+    "topic": "口称288 泽漆",
+    "cue_range": [
+      247,
+      291
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1096000,
+    "t_end_ms": 1249000,
+    "topic": "口称290 贯众",
+    "cue_range": [
+      291,
+      323
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 1249000,
+    "t_end_ms": 1336000,
+    "topic": "口称291 芫花",
+    "cue_range": [
+      323,
+      349
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 1336000,
+    "t_end_ms": 1404000,
+    "topic": "口称292 牙子 / 狼牙",
+    "cue_range": [
+      349,
+      366
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 1404000,
+    "t_end_ms": 1457000,
+    "topic": "口称293 羊踯躅",
+    "cue_range": [
+      366,
+      383
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 1457000,
+    "t_end_ms": 1666000,
+    "topic": "口称294 商陆",
+    "cue_range": [
+      383,
+      434
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 1666000,
+    "t_end_ms": 1809000,
+    "topic": "口称295 羊蹄",
+    "cue_range": [
+      434,
+      471
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 1809000,
+    "t_end_ms": 1912000,
+    "topic": "狼毒（本集无口称味次）",
+    "cue_range": [
+      471,
+      497
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 1912000,
+    "t_end_ms": 2405000,
+    "topic": "口称298 白头翁",
+    "cue_range": [
+      497,
+      660
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 2405000,
+    "t_end_ms": 2482000,
+    "topic": "女青（无口称味次）",
+    "cue_range": [
+      660,
+      687
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 2482000,
+    "t_end_ms": 2684000,
+    "topic": "口称302 连翘",
+    "cue_range": [
+      687,
+      733
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 2684000,
+    "t_end_ms": 2823000,
+    "topic": "口称306 蚤休",
+    "cue_range": [
+      733,
+      766
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 2823000,
+    "t_end_ms": 2902000,
+    "topic": "石长生",
+    "cue_range": [
+      766,
+      789
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 2902000,
+    "t_end_ms": 3351000,
+    "topic": "陆英 / 夏枯草",
+    "cue_range": [
+      789,
+      912
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 18,
+    "t_start_ms": 3351000,
+    "t_end_ms": 3893000,
+    "topic": "峻下回顾（大戟甘遂芫花续）",
+    "cue_range": [
+      912,
+      1070
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 19,
+    "t_start_ms": 3893000,
+    "t_end_ms": 4393000,
+    "topic": "口称313 巴豆",
+    "cue_range": [
+      1070,
+      1199
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 20,
+    "t_start_ms": 4393000,
+    "t_end_ms": 4651000,
+    "topic": "蜀椒（无口称味次）",
+    "cue_range": [
+      1199,
+      1273
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 21,
+    "t_start_ms": 4651000,
+    "t_end_ms": 5082000,
+    "topic": "皂荚",
+    "cue_range": [
+      1273,
+      1408
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 22,
+    "t_start_ms": 5082000,
+    "t_end_ms": 5263000,
+    "topic": "柳花",
+    "cue_range": [
+      1408,
+      1464
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 23,
+    "t_start_ms": 5263000,
+    "t_end_ms": 5448000,
+    "topic": "口称317 楝实",
+    "cue_range": [
+      1464,
+      1506
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 24,
+    "t_start_ms": 5448000,
+    "t_end_ms": 5620000,
+    "topic": "口称318 郁李",
+    "cue_range": [
+      1506,
+      1546
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 25,
+    "t_start_ms": 5620000,
+    "t_end_ms": 5734000,
+    "topic": "口称319 莽草",
+    "cue_range": [
+      1546,
+      1569
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 26,
+    "t_start_ms": 5734000,
+    "t_end_ms": 5802000,
+    "topic": "口称320 雷丸",
+    "cue_range": [
+      1569,
+      1581
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 27,
+    "t_start_ms": 5802000,
+    "t_end_ms": 5892000,
+    "topic": "桐叶",
+    "cue_range": [
+      1581,
+      1606
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 28,
+    "t_start_ms": 5892000,
+    "t_end_ms": 5943000,
+    "topic": "梓白皮",
+    "cue_range": [
+      1606,
+      1624
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 29,
+    "t_start_ms": 5943000,
+    "t_end_ms": 6023000,
+    "topic": "黄环",
+    "cue_range": [
+      1624,
+      1641
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 30,
+    "t_start_ms": 6023000,
+    "t_end_ms": 6435000,
+    "topic": "蛇蜕（口称336 或为页码，不改作味次）",
+    "cue_range": [
+      1641,
+      1736
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 31,
+    "t_start_ms": 6435000,
+    "t_end_ms": 6791000,
+    "topic": "蜈蚣",
+    "cue_range": [
+      1736,
+      1820
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 32,
+    "t_start_ms": 6791000,
+    "t_end_ms": 6910000,
+    "topic": "口称341 斑蝥",
+    "cue_range": [
+      1820,
+      1848
+    ],
+    "bvid": "BV1oc8wzsEao"
+  },
+  {
+    "section": 33,
+    "t_start_ms": 6910000,
+    "t_end_ms": 7166501,
+    "topic": "口称342 贝子",
+    "cue_range": [
+      1848,
+      1905
+    ],
+    "bvid": "BV1oc8wzsEao"
+  }
+]

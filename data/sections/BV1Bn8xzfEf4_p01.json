@@ -1,0 +1,123 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 99000,
+    "topic": "开场补遗（口称102 冒）",
+    "cue_range": [
+      1,
+      43
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 99000,
+    "t_end_ms": 812000,
+    "topic": "条101/104 柴胡证与加芒硝",
+    "cue_range": [
+      43,
+      324
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 812000,
+    "t_end_ms": 1314000,
+    "topic": "条105 过经谵语调胃承气",
+    "cue_range": [
+      324,
+      525
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1314000,
+    "t_end_ms": 1965000,
+    "topic": "条106 桃核承气",
+    "cue_range": [
+      525,
+      820
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1965000,
+    "t_end_ms": 2726000,
+    "topic": "条107 柴胡加龙骨牡蛎",
+    "cue_range": [
+      820,
+      1103
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2726000,
+    "t_end_ms": 3186000,
+    "topic": "条108–110 刺期门",
+    "cue_range": [
+      1103,
+      1267
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 3186000,
+    "t_end_ms": 3569000,
+    "topic": "条111 火劫发黄",
+    "cue_range": [
+      1267,
+      1418
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 3569000,
+    "t_end_ms": 4519000,
+    "topic": "条112 救逆汤",
+    "cue_range": [
+      1418,
+      1753
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 4519000,
+    "t_end_ms": 5012000,
+    "topic": "条117 烧针奔豚",
+    "cue_range": [
+      1753,
+      1933
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 5012000,
+    "t_end_ms": 6776000,
+    "topic": "条118–122 火逆 / 茯苓四逆",
+    "cue_range": [
+      1933,
+      2650
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 6776000,
+    "t_end_ms": 7214001,
+    "topic": "条123 温温欲吐调胃承气",
+    "cue_range": [
+      2650,
+      2826
+    ],
+    "bvid": "BV1Bn8xzfEf4"
+  }
+]

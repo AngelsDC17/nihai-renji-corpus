@@ -1,0 +1,134 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 54000,
+    "topic": "刺猬皮（续）",
+    "cue_range": [
+      1,
+      17
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 54000,
+    "t_end_ms": 1250000,
+    "topic": "第232味 露蜂房",
+    "cue_range": [
+      17,
+      439
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1250000,
+    "t_end_ms": 1501000,
+    "topic": "口称234（典故，药名未稳）",
+    "cue_range": [
+      439,
+      516
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1501000,
+    "t_end_ms": 1671000,
+    "topic": "第235味 蝉蜕",
+    "cue_range": [
+      516,
+      564
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1671000,
+    "t_end_ms": 1883000,
+    "topic": "第236味 蛴螬",
+    "cue_range": [
+      564,
+      638
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 1883000,
+    "t_end_ms": 1986000,
+    "topic": "第237味 海螵蛸",
+    "cue_range": [
+      638,
+      671
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 1986000,
+    "t_end_ms": 2344000,
+    "topic": "第238味 白僵蚕一带",
+    "cue_range": [
+      671,
+      792
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 2344000,
+    "t_end_ms": 2593000,
+    "topic": "第239–241味 鮀鱼甲 / 蜗牛",
+    "cue_range": [
+      792,
+      865
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 2593000,
+    "t_end_ms": 2801000,
+    "topic": "第242味 石龙子",
+    "cue_range": [
+      865,
+      935
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 2801000,
+    "t_end_ms": 3097000,
+    "topic": "第243–244味 虻虫",
+    "cue_range": [
+      935,
+      1037
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 3097000,
+    "t_end_ms": 3207000,
+    "topic": "第245味 蜚蠊",
+    "cue_range": [
+      1037,
+      1075
+    ],
+    "bvid": "BV1Am8czNEKo"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 3207000,
+    "t_end_ms": 3642001,
+    "topic": "第246味 䗪虫",
+    "cue_range": [
+      1075,
+      1201
+    ],
+    "bvid": "BV1Am8czNEKo"
+  }
+]

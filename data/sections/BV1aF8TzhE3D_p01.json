@@ -1,0 +1,35 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 712000,
+    "topic": "素问·玉版论要（下）",
+    "cue_range": [
+      1,
+      205
+    ],
+    "bvid": "BV1aF8TzhE3D"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 712000,
+    "t_end_ms": 3001000,
+    "topic": "素问·诊要经终论",
+    "cue_range": [
+      205,
+      953
+    ],
+    "bvid": "BV1aF8TzhE3D"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 3001000,
+    "t_end_ms": 6553501,
+    "topic": "素问·脉要精微论（上）",
+    "cue_range": [
+      953,
+      2100
+    ],
+    "bvid": "BV1aF8TzhE3D"
+  }
+]

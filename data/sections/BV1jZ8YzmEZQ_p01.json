@@ -1,0 +1,189 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 8000,
+    "t_end_ms": 1082000,
+    "topic": "第五篇提纲 / 中风先兆",
+    "cue_range": [
+      1,
+      430
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1082000,
+    "t_end_ms": 1538000,
+    "topic": "邪在络经腑脏",
+    "cue_range": [
+      430,
+      605
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1538000,
+    "t_end_ms": 1893000,
+    "topic": "防己地黄汤",
+    "cue_range": [
+      605,
+      749
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1893000,
+    "t_end_ms": 1965000,
+    "topic": "侯氏黑散",
+    "cue_range": [
+      749,
+      781
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1965000,
+    "t_end_ms": 2136000,
+    "topic": "风引汤",
+    "cue_range": [
+      781,
+      851
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2136000,
+    "t_end_ms": 2379000,
+    "topic": "头风摩散",
+    "cue_range": [
+      851,
+      935
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 2379000,
+    "t_end_ms": 2728000,
+    "topic": "千金三黄汤",
+    "cue_range": [
+      935,
+      1072
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 2728000,
+    "t_end_ms": 2999000,
+    "topic": "小续命汤",
+    "cue_range": [
+      1072,
+      1167
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 2999000,
+    "t_end_ms": 3465000,
+    "topic": "术附汤",
+    "cue_range": [
+      1167,
+      1346
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 3465000,
+    "t_end_ms": 3831000,
+    "topic": "历节提纲",
+    "cue_range": [
+      1346,
+      1489
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 3831000,
+    "t_end_ms": 4917000,
+    "topic": "桂枝芍药知母汤",
+    "cue_range": [
+      1489,
+      1903
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 4917000,
+    "t_end_ms": 5558000,
+    "topic": "乌头汤",
+    "cue_range": [
+      1903,
+      2180
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 5558000,
+    "t_end_ms": 5671000,
+    "topic": "血痹提纲 / 针刺",
+    "cue_range": [
+      2180,
+      2237
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 5671000,
+    "t_end_ms": 5788000,
+    "topic": "黄芪桂枝五物汤",
+    "cue_range": [
+      2237,
+      2286
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 5788000,
+    "t_end_ms": 6406000,
+    "topic": "虚劳脉法",
+    "cue_range": [
+      2286,
+      2516
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 6406000,
+    "t_end_ms": 6915000,
+    "topic": "桂枝加龙骨牡蛎汤",
+    "cue_range": [
+      2516,
+      2736
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 6915000,
+    "t_end_ms": 7019501,
+    "topic": "天雄散（金04）",
+    "cue_range": [
+      2736,
+      2774
+    ],
+    "bvid": "BV1jZ8YzmEZQ"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1081000,
+    "topic": "五脏续 / 防己黄芪",
+    "cue_range": [
+      1,
+      405
+    ],
+    "bvid": "BV13R8iz7EaY"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1081000,
+    "t_end_ms": 1230000,
+    "topic": "酸枣仁汤（夹讲）",
+    "cue_range": [
+      405,
+      470
+    ],
+    "bvid": "BV13R8iz7EaY"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1230000,
+    "t_end_ms": 1940000,
+    "topic": "脾约 麻子仁丸",
+    "cue_range": [
+      470,
+      732
+    ],
+    "bvid": "BV13R8iz7EaY"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1940000,
+    "t_end_ms": 3181000,
+    "topic": "肾着 甘姜苓术汤",
+    "cue_range": [
+      732,
+      1187
+    ],
+    "bvid": "BV13R8iz7EaY"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 3181000,
+    "t_end_ms": 4590000,
+    "topic": "积聚收束",
+    "cue_range": [
+      1187,
+      1786
+    ],
+    "bvid": "BV13R8iz7EaY"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 4590000,
+    "t_end_ms": 5855000,
+    "topic": "痰饮提纲 / 四饮",
+    "cue_range": [
+      1786,
+      2254
+    ],
+    "bvid": "BV13R8iz7EaY"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 5855000,
+    "t_end_ms": 6460000,
+    "topic": "苓桂术甘 / 肾气",
+    "cue_range": [
+      2254,
+      2476
+    ],
+    "bvid": "BV13R8iz7EaY"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 6460000,
+    "t_end_ms": 7060001,
+    "topic": "甘遂半夏 / 十枣",
+    "cue_range": [
+      2476,
+      2713
+    ],
+    "bvid": "BV13R8iz7EaY"
+  }
+]

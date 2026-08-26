@@ -1,0 +1,123 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 897000,
+    "topic": "条76 栀子豉汤",
+    "cue_range": [
+      1,
+      504
+    ],
+    "bvid": "BV1R88xzXE3q"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 897000,
+    "t_end_ms": 1260000,
+    "topic": "条77 发汗下后胸中窒",
+    "cue_range": [
+      504,
+      706
+    ],
+    "bvid": "BV1R88xzXE3q"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1260000,
+    "t_end_ms": 1647000,
+    "topic": "条79 栀子厚朴汤",
+    "cue_range": [
+      706,
+      908
+    ],
+    "bvid": "BV1R88xzXE3q"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1647000,
+    "t_end_ms": 1847000,
+    "topic": "条80 栀子干姜汤",
+    "cue_range": [
+      908,
+      988
+    ],
+    "bvid": "BV1R88xzXE3q"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1847000,
+    "t_end_ms": 2348000,
+    "topic": "条82 真武汤",
+    "cue_range": [
+      988,
+      1195
+    ],
+    "bvid": "BV1R88xzXE3q"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2348000,
+    "t_end_ms": 2828000,
+    "topic": "条83–88 不可发汗 / 禹余粮",
+    "cue_range": [
+      1195,
+      1407
+    ],
+    "bvid": "BV1R88xzXE3q"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 2828000,
+    "t_end_ms": 3118000,
+    "topic": "条89 吐蛔",
+    "cue_range": [
+      1407,
+      1526
+    ],
+    "bvid": "BV1R88xzXE3q"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 3118000,
+    "t_end_ms": 3721000,
+    "topic": "条91–92 救里救表",
+    "cue_range": [
+      1526,
+      1833
+    ],
+    "bvid": "BV1R88xzXE3q"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 3721000,
+    "t_end_ms": 5895000,
+    "topic": "条96–101 小柴胡",
+    "cue_range": [
+      1833,
+      2804
+    ],
+    "bvid": "BV1R88xzXE3q"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 5895000,
+    "t_end_ms": 6384000,
+    "topic": "条100/102 小建中",
+    "cue_range": [
+      2804,
+      3016
+    ],
+    "bvid": "BV1R88xzXE3q"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 6384000,
+    "t_end_ms": 7109001,
+    "topic": "条103 大柴胡",
+    "cue_range": [
+      3016,
+      3319
+    ],
+    "bvid": "BV1R88xzXE3q"
+  }
+]

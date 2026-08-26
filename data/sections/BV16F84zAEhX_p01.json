@@ -1,0 +1,178 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1393000,
+    "topic": "条31 葛根汤",
+    "cue_range": [
+      1,
+      634
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1393000,
+    "t_end_ms": 1633500,
+    "topic": "条32 合病下利",
+    "cue_range": [
+      634,
+      755
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1633500,
+    "t_end_ms": 1974000,
+    "topic": "条33 葛根加半夏",
+    "cue_range": [
+      755,
+      906
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1974000,
+    "t_end_ms": 2305000,
+    "topic": "条34 葛根芩连",
+    "cue_range": [
+      906,
+      1042
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 2305000,
+    "t_end_ms": 3283000,
+    "topic": "条35 麻黄汤",
+    "cue_range": [
+      1042,
+      1512
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 3283000,
+    "t_end_ms": 3559000,
+    "topic": "条36 合病喘满",
+    "cue_range": [
+      1512,
+      1648
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 3559000,
+    "t_end_ms": 3692500,
+    "topic": "条37 十日已去",
+    "cue_range": [
+      1648,
+      1724
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 3692500,
+    "t_end_ms": 4510000,
+    "topic": "条38–39 大青龙",
+    "cue_range": [
+      1724,
+      2146
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 4510000,
+    "t_end_ms": 5363000,
+    "topic": "条40 小青龙",
+    "cue_range": [
+      2146,
+      2575
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 5363000,
+    "t_end_ms": 5812000,
+    "topic": "条43 桂枝加朴杏",
+    "cue_range": [
+      2575,
+      2792
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 5812000,
+    "t_end_ms": 6046000,
+    "topic": "条44 外证未解勿下",
+    "cue_range": [
+      2792,
+      2882
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 6046000,
+    "t_end_ms": 6092000,
+    "topic": "条45 先汗复下",
+    "cue_range": [
+      2882,
+      2906
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 6092000,
+    "t_end_ms": 6373000,
+    "topic": "条46 脉浮紧八九日",
+    "cue_range": [
+      2906,
+      3019
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 6373000,
+    "t_end_ms": 6821000,
+    "topic": "条48 二阳并病",
+    "cue_range": [
+      3019,
+      3207
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 6821000,
+    "t_end_ms": 7034000,
+    "topic": "条52 脉浮数当汗",
+    "cue_range": [
+      3207,
+      3352
+    ],
+    "bvid": "BV16F84zAEhX"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 7034000,
+    "t_end_ms": 7141001,
+    "topic": "条55 脉浮紧身疼痛",
+    "cue_range": [
+      3352,
+      3421
+    ],
+    "bvid": "BV16F84zAEhX"
+  }
+]

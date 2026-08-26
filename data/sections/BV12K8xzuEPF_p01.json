@@ -1,0 +1,233 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 173000,
+    "topic": "续大黄 / 大承气方义（伤10 已抽条文）",
+    "cue_range": [
+      1,
+      69
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 173000,
+    "t_end_ms": 907000,
+    "topic": "口称225–227 日晡潮热 / 谵语剧者",
+    "cue_range": [
+      69,
+      400
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 907000,
+    "t_end_ms": 1009000,
+    "topic": "口称228 多汗津液 / 调胃承气",
+    "cue_range": [
+      400,
+      437
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1009000,
+    "t_end_ms": 1396000,
+    "topic": "口称229 伤寒麻黄汤证",
+    "cue_range": [
+      437,
+      611
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1396000,
+    "t_end_ms": 1615000,
+    "topic": "口称231–233 谵语潮热 大小承气",
+    "cue_range": [
+      611,
+      700
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 1615000,
+    "t_end_ms": 1858000,
+    "topic": "口称234 下血谵语 热入血室",
+    "cue_range": [
+      700,
+      805
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 1858000,
+    "t_end_ms": 2052000,
+    "topic": "口称237 三阳合病",
+    "cue_range": [
+      805,
+      897
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 2052000,
+    "t_end_ms": 2214000,
+    "topic": "口称三十八 二阳并病",
+    "cue_range": [
+      897,
+      953
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 2214000,
+    "t_end_ms": 2301000,
+    "topic": "口称240 心中懊浓 栀子豉",
+    "cue_range": [
+      953,
+      991
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 2301000,
+    "t_end_ms": 2796000,
+    "topic": "猪苓汤",
+    "cue_range": [
+      991,
+      1231
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 2796000,
+    "t_end_ms": 2875000,
+    "topic": "口称242 脉浮而迟 四逆",
+    "cue_range": [
+      1231,
+      1264
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 2875000,
+    "t_end_ms": 2951000,
+    "topic": "口称243 口干鼻燥能食则衄",
+    "cue_range": [
+      1264,
+      1298
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 2951000,
+    "t_end_ms": 3256000,
+    "topic": "口称244 阳明胃寒一带",
+    "cue_range": [
+      1298,
+      1438
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 3256000,
+    "t_end_ms": 3553000,
+    "topic": "口称246 胁下硬满 小柴胡",
+    "cue_range": [
+      1438,
+      1558
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 3553000,
+    "t_end_ms": 5830000,
+    "topic": "口称235 补过经可下 / 承气临床",
+    "cue_range": [
+      1558,
+      2373
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 5830000,
+    "t_end_ms": 6067000,
+    "topic": "茵陈蒿汤（发黄）",
+    "cue_range": [
+      2373,
+      2484
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 6067000,
+    "t_end_ms": 6269000,
+    "topic": "口称248 津液内竭 蜜煎导",
+    "cue_range": [
+      2484,
+      2576
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 18,
+    "t_start_ms": 6269000,
+    "t_end_ms": 6329000,
+    "topic": "口称249 阳明有汗",
+    "cue_range": [
+      2576,
+      2600
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 19,
+    "t_start_ms": 6329000,
+    "t_end_ms": 6783000,
+    "topic": "口称250 阳明病",
+    "cue_range": [
+      2600,
+      2782
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 20,
+    "t_start_ms": 6783000,
+    "t_end_ms": 7020000,
+    "topic": "茵陈蒿汤方义 / 大黄",
+    "cue_range": [
+      2782,
+      2886
+    ],
+    "bvid": "BV12K8xzuEPF"
+  },
+  {
+    "section": 21,
+    "t_start_ms": 7020000,
+    "t_end_ms": 7086501,
+    "topic": "抵当汤 屎黑善忘",
+    "cue_range": [
+      2886,
+      2917
+    ],
+    "bvid": "BV12K8xzuEPF"
+  }
+]

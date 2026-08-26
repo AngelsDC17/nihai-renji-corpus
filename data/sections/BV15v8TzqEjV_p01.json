@@ -1,0 +1,35 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 3984000,
+    "topic": "素问·阴阳应象大论（下）",
+    "cue_range": [
+      1,
+      1096
+    ],
+    "bvid": "BV15v8TzqEjV"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 3984000,
+    "t_end_ms": 4651000,
+    "topic": "素问·阴阳离合论",
+    "cue_range": [
+      1096,
+      1308
+    ],
+    "bvid": "BV15v8TzqEjV"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 4651000,
+    "t_end_ms": 7145001,
+    "topic": "素问·阴阳别论（上）",
+    "cue_range": [
+      1308,
+      2113
+    ],
+    "bvid": "BV15v8TzqEjV"
+  }
+]

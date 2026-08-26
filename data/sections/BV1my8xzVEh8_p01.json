@@ -1,0 +1,90 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 369000,
+    "topic": "条148 阳微结 / 小柴胡",
+    "cue_range": [
+      1,
+      159
+    ],
+    "bvid": "BV1my8xzVEh8"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 369000,
+    "t_end_ms": 1371000,
+    "topic": "条146 柴胡桂枝汤",
+    "cue_range": [
+      159,
+      609
+    ],
+    "bvid": "BV1my8xzVEh8"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1371000,
+    "t_end_ms": 2879000,
+    "topic": "条147 柴胡桂枝干姜汤",
+    "cue_range": [
+      609,
+      1284
+    ],
+    "bvid": "BV1my8xzVEh8"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 2879000,
+    "t_end_ms": 4124000,
+    "topic": "条149 结胸与痞 / 半夏泻心",
+    "cue_range": [
+      1284,
+      1824
+    ],
+    "bvid": "BV1my8xzVEh8"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 4124000,
+    "t_end_ms": 5355000,
+    "topic": "条152 十枣汤",
+    "cue_range": [
+      1824,
+      2299
+    ],
+    "bvid": "BV1my8xzVEh8"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 5355000,
+    "t_end_ms": 6186000,
+    "topic": "条154 大黄黄连泻心",
+    "cue_range": [
+      2299,
+      2598
+    ],
+    "bvid": "BV1my8xzVEh8"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 6186000,
+    "t_end_ms": 6611000,
+    "topic": "条155 附子泻心",
+    "cue_range": [
+      2598,
+      2788
+    ],
+    "bvid": "BV1my8xzVEh8"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 6611000,
+    "t_end_ms": 7161501,
+    "topic": "条157 生姜泻心",
+    "cue_range": [
+      2788,
+      3004
+    ],
+    "bvid": "BV1my8xzVEh8"
+  }
+]

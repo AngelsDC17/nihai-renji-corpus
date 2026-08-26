@@ -1,0 +1,57 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1037000,
+    "topic": "素问·八正神明论（下）",
+    "cue_range": [
+      1,
+      338
+    ],
+    "bvid": "BV1Rd8KzPETL"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1037000,
+    "t_end_ms": 2180000,
+    "topic": "素问·离合真邪论",
+    "cue_range": [
+      338,
+      700
+    ],
+    "bvid": "BV1Rd8KzPETL"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2180000,
+    "t_end_ms": 5291000,
+    "topic": "素问·通评虚实论",
+    "cue_range": [
+      700,
+      1599
+    ],
+    "bvid": "BV1Rd8KzPETL"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 5291000,
+    "t_end_ms": 6330000,
+    "topic": "素问·太阴阳明论",
+    "cue_range": [
+      1599,
+      1941
+    ],
+    "bvid": "BV1Rd8KzPETL"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 6330000,
+    "t_end_ms": 6866501,
+    "topic": "素问·阳明脉解",
+    "cue_range": [
+      1941,
+      2139
+    ],
+    "bvid": "BV1Rd8KzPETL"
+  }
+]

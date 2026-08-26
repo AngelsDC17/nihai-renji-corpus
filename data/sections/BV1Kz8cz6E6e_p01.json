@@ -1,0 +1,178 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 337000,
+    "topic": "梅实 / 露蜂房·鳖甲回看",
+    "cue_range": [
+      1,
+      99
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 337000,
+    "t_end_ms": 423000,
+    "topic": "第249味 大豆黄卷",
+    "cue_range": [
+      99,
+      124
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 423000,
+    "t_end_ms": 483000,
+    "topic": "第250味 粟米",
+    "cue_range": [
+      124,
+      139
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 483000,
+    "t_end_ms": 583000,
+    "topic": "第251味 黍米",
+    "cue_range": [
+      139,
+      174
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 583000,
+    "t_end_ms": 764000,
+    "topic": "口称252–254 中经米谷收束",
+    "cue_range": [
+      174,
+      223
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 764000,
+    "t_end_ms": 878000,
+    "topic": "第255味 石灰（下经起）",
+    "cue_range": [
+      223,
+      253
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 878000,
+    "t_end_ms": 923000,
+    "topic": "第256味 礜石",
+    "cue_range": [
+      253,
+      263
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 923000,
+    "t_end_ms": 1027000,
+    "topic": "第257味 铅丹",
+    "cue_range": [
+      263,
+      289
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 1027000,
+    "t_end_ms": 1148000,
+    "topic": "第258味 粉锡",
+    "cue_range": [
+      289,
+      313
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 1148000,
+    "t_end_ms": 1547000,
+    "topic": "第259味 代赭石",
+    "cue_range": [
+      313,
+      462
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 1547000,
+    "t_end_ms": 1859000,
+    "topic": "第260味 卤咸",
+    "cue_range": [
+      462,
+      563
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 1859000,
+    "t_end_ms": 1963000,
+    "topic": "第261–262味 白垩一带",
+    "cue_range": [
+      563,
+      585
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 1963000,
+    "t_end_ms": 4533000,
+    "topic": "第264味 附子",
+    "cue_range": [
+      585,
+      1418
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 4533000,
+    "t_end_ms": 5282000,
+    "topic": "第265味 乌头",
+    "cue_range": [
+      1418,
+      1657
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 5282000,
+    "t_end_ms": 5771000,
+    "topic": "第266味 天雄",
+    "cue_range": [
+      1657,
+      1809
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 5771000,
+    "t_end_ms": 5775001,
+    "topic": "口称267",
+    "cue_range": [
+      1809,
+      1809
+    ],
+    "bvid": "BV1Kz8cz6E6e"
+  }
+]

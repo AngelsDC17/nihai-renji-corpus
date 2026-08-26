@@ -1,0 +1,90 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1741000,
+    "topic": "条124–125 抵当汤",
+    "cue_range": [
+      1,
+      753
+    ],
+    "bvid": "BV1qW8xzoENj"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1741000,
+    "t_end_ms": 1925000,
+    "topic": "条126 抵当丸",
+    "cue_range": [
+      753,
+      811
+    ],
+    "bvid": "BV1qW8xzoENj"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1925000,
+    "t_end_ms": 2356000,
+    "topic": "条128 结胸 / 脏结",
+    "cue_range": [
+      811,
+      983
+    ],
+    "bvid": "BV1qW8xzoENj"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 2356000,
+    "t_end_ms": 3285000,
+    "topic": "条131 病发于阳作结胸",
+    "cue_range": [
+      983,
+      1349
+    ],
+    "bvid": "BV1qW8xzoENj"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 3285000,
+    "t_end_ms": 4373000,
+    "topic": "条134–137 大陷胸",
+    "cue_range": [
+      1349,
+      1794
+    ],
+    "bvid": "BV1qW8xzoENj"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 4373000,
+    "t_end_ms": 5311000,
+    "topic": "条138 小结胸",
+    "cue_range": [
+      1794,
+      2160
+    ],
+    "bvid": "BV1qW8xzoENj"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 5311000,
+    "t_end_ms": 6862000,
+    "topic": "条141 文蛤散 / 寒实白散",
+    "cue_range": [
+      2160,
+      2823
+    ],
+    "bvid": "BV1qW8xzoENj"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 6862000,
+    "t_end_ms": 7116501,
+    "topic": "条142 刺大椎",
+    "cue_range": [
+      2823,
+      2939
+    ],
+    "bvid": "BV1qW8xzoENj"
+  }
+]

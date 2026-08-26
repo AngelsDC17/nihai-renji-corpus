@@ -1,0 +1,112 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 1561000,
+    "topic": "上经余味 / 松脂蜜蜡补讲（口称121起）",
+    "cue_range": [
+      1,
+      489
+    ],
+    "bvid": "BV1YU8wzpEaJ"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1561000,
+    "t_end_ms": 3410000,
+    "topic": "第125味 龟甲",
+    "cue_range": [
+      489,
+      1095
+    ],
+    "bvid": "BV1YU8wzpEaJ"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 3410000,
+    "t_end_ms": 3934000,
+    "topic": "第132味 海蛤",
+    "cue_range": [
+      1095,
+      1301
+    ],
+    "bvid": "BV1YU8wzpEaJ"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 3934000,
+    "t_end_ms": 4588000,
+    "topic": "第134味 蓬虆",
+    "cue_range": [
+      1301,
+      1523
+    ],
+    "bvid": "BV1YU8wzpEaJ"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 4588000,
+    "t_end_ms": 4810000,
+    "topic": "第138味 冬葵子",
+    "cue_range": [
+      1523,
+      1615
+    ],
+    "bvid": "BV1YU8wzpEaJ"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 4810000,
+    "t_end_ms": 5188000,
+    "topic": "第140味 瓜蒂",
+    "cue_range": [
+      1615,
+      1769
+    ],
+    "bvid": "BV1YU8wzpEaJ"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 5188000,
+    "t_end_ms": 5553000,
+    "topic": "第142味 苦菜 / 上经收束",
+    "cue_range": [
+      1769,
+      1909
+    ],
+    "bvid": "BV1YU8wzpEaJ"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 5553000,
+    "t_end_ms": 6025000,
+    "topic": "第143味 雄黄（中经起）",
+    "cue_range": [
+      1909,
+      2118
+    ],
+    "bvid": "BV1YU8wzpEaJ"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 6025000,
+    "t_end_ms": 7045000,
+    "topic": "第144味 石硫黄",
+    "cue_range": [
+      2118,
+      2576
+    ],
+    "bvid": "BV1YU8wzpEaJ"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 7045000,
+    "t_end_ms": 7102501,
+    "topic": "第145味 雌黄",
+    "cue_range": [
+      2576,
+      2598
+    ],
+    "bvid": "BV1YU8wzpEaJ"
+  }
+]

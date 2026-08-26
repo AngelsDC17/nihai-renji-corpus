@@ -1,0 +1,46 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 2611000,
+    "topic": "淋 / 栝蒌瞿麦 / 蒲灰",
+    "cue_range": [
+      1,
+      948
+    ],
+    "bvid": "BV13d8iz2E5G"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 2611000,
+    "t_end_ms": 2811000,
+    "topic": "猪苓汤",
+    "cue_range": [
+      948,
+      1031
+    ],
+    "bvid": "BV13d8iz2E5G"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2811000,
+    "t_end_ms": 4238000,
+    "topic": "水气提纲 风水皮水石水黄汗",
+    "cue_range": [
+      1031,
+      1522
+    ],
+    "bvid": "BV13d8iz2E5G"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 4238000,
+    "t_end_ms": 7077001,
+    "topic": "越婢汤 / 水气续（金10）",
+    "cue_range": [
+      1522,
+      2715
+    ],
+    "bvid": "BV13d8iz2E5G"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 462000,
+    "topic": "跌蹶",
+    "cue_range": [
+      1,
+      153
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 462000,
+    "t_end_ms": 615000,
+    "topic": "转筋 鸡屎白散",
+    "cue_range": [
+      153,
+      205
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 615000,
+    "t_end_ms": 1228000,
+    "topic": "阴狐疝 蜘蛛散",
+    "cue_range": [
+      205,
+      468
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1228000,
+    "t_end_ms": 1943000,
+    "topic": "妇人妊娠提纲",
+    "cue_range": [
+      468,
+      874
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1943000,
+    "t_end_ms": 2484000,
+    "topic": "桂枝茯苓丸",
+    "cue_range": [
+      874,
+      1240
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2484000,
+    "t_end_ms": 2998000,
+    "topic": "胶艾汤",
+    "cue_range": [
+      1240,
+      1440
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 2998000,
+    "t_end_ms": 3314000,
+    "topic": "当归芍药散",
+    "cue_range": [
+      1440,
+      1560
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 3314000,
+    "t_end_ms": 3600000,
+    "topic": "当归贝母苦参汤",
+    "cue_range": [
+      1560,
+      1665
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 3600000,
+    "t_end_ms": 4525000,
+    "topic": "当归散 / 白术散",
+    "cue_range": [
+      1665,
+      2030
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 4525000,
+    "t_end_ms": 4771000,
+    "topic": "产后郁冒 / 小柴胡",
+    "cue_range": [
+      2030,
+      2127
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 4771000,
+    "t_end_ms": 5590000,
+    "topic": "产后腹痛 枳实芍药 / 承气",
+    "cue_range": [
+      2127,
+      2469
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 5590000,
+    "t_end_ms": 5671000,
+    "topic": "竹叶汤",
+    "cue_range": [
+      2469,
+      2494
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 5671000,
+    "t_end_ms": 6092000,
+    "topic": "竹皮大丸",
+    "cue_range": [
+      2494,
+      2627
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 6092000,
+    "t_end_ms": 6165000,
+    "topic": "白头翁加甘草阿胶",
+    "cue_range": [
+      2627,
+      2651
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 6165000,
+    "t_end_ms": 6499000,
+    "topic": "妇人杂病提纲",
+    "cue_range": [
+      2651,
+      2786
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 6499000,
+    "t_end_ms": 6721000,
+    "topic": "半夏厚朴汤",
+    "cue_range": [
+      2786,
+      2870
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 6721000,
+    "t_end_ms": 7004001,
+    "topic": "甘麦大枣汤",
+    "cue_range": [
+      2870,
+      2973
+    ],
+    "bvid": "BV1Zf8vz9EXb"
+  }
+]

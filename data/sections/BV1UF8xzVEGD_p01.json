@@ -1,0 +1,167 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 378000,
+    "topic": "口称329 白通加猪胆汁（伤13 已抽条文）",
+    "cue_range": [
+      1,
+      141
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 378000,
+    "t_end_ms": 674000,
+    "topic": "口称330 真武汤",
+    "cue_range": [
+      141,
+      264
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 674000,
+    "t_end_ms": 1446000,
+    "topic": "口称331 通脉四逆汤",
+    "cue_range": [
+      264,
+      586
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1446000,
+    "t_end_ms": 1730000,
+    "topic": "四逆散",
+    "cue_range": [
+      586,
+      685
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1730000,
+    "t_end_ms": 2011000,
+    "topic": "猪苓汤 口称333",
+    "cue_range": [
+      685,
+      795
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2011000,
+    "t_end_ms": 2052000,
+    "topic": "口称334 口燥咽干急下",
+    "cue_range": [
+      795,
+      816
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 2052000,
+    "t_end_ms": 2177000,
+    "topic": "自利清水色纯青急下",
+    "cue_range": [
+      816,
+      865
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 2177000,
+    "t_end_ms": 2210000,
+    "topic": "口称336 腹胀不大便急下",
+    "cue_range": [
+      865,
+      880
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 2210000,
+    "t_end_ms": 2241000,
+    "topic": "脉沉急温四逆",
+    "cue_range": [
+      880,
+      890
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 2241000,
+    "t_end_ms": 2345000,
+    "topic": "口称338 饮食入口则吐",
+    "cue_range": [
+      890,
+      930
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 2345000,
+    "t_end_ms": 2418000,
+    "topic": "少阴下利脉微涩 温上灸之",
+    "cue_range": [
+      930,
+      952
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 2418000,
+    "t_end_ms": 2947000,
+    "topic": "口称340 厥阴提纲",
+    "cue_range": [
+      952,
+      1141
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 2947000,
+    "t_end_ms": 3062000,
+    "topic": "口称341 厥阴中风",
+    "cue_range": [
+      1141,
+      1178
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 3062000,
+    "t_end_ms": 3279000,
+    "topic": "口称344 诸四逆不可下",
+    "cue_range": [
+      1178,
+      1275
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 3279000,
+    "t_end_ms": 3586501,
+    "topic": "除中反能食",
+    "cue_range": [
+      1275,
+      1391
+    ],
+    "bvid": "BV1UF8xzVEGD"
+  }
+]

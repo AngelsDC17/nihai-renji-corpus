@@ -1,0 +1,57 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 402000,
+    "topic": "素问·疟论（下）",
+    "cue_range": [
+      1,
+      130
+    ],
+    "bvid": "BV1tg8uzaEBa"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 402000,
+    "t_end_ms": 2117000,
+    "topic": "素问·刺疟",
+    "cue_range": [
+      130,
+      703
+    ],
+    "bvid": "BV1tg8uzaEBa"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 2117000,
+    "t_end_ms": 3323000,
+    "topic": "素问·气厥论",
+    "cue_range": [
+      703,
+      1060
+    ],
+    "bvid": "BV1tg8uzaEBa"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 3323000,
+    "t_end_ms": 4338000,
+    "topic": "素问·咳论",
+    "cue_range": [
+      1060,
+      1382
+    ],
+    "bvid": "BV1tg8uzaEBa"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 4338000,
+    "t_end_ms": 6515501,
+    "topic": "素问·举痛论",
+    "cue_range": [
+      1382,
+      2171
+    ],
+    "bvid": "BV1tg8uzaEBa"
+  }
+]

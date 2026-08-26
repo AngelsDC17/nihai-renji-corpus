@@ -1,0 +1,200 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 0,
+    "t_end_ms": 973000,
+    "topic": "第41味 细辛",
+    "cue_range": [
+      1,
+      349
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 973000,
+    "t_end_ms": 1292000,
+    "topic": "第42味 石斛",
+    "cue_range": [
+      349,
+      451
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 1292000,
+    "t_end_ms": 1836000,
+    "topic": "第43味 巴戟天",
+    "cue_range": [
+      451,
+      623
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 1836000,
+    "t_end_ms": 1981000,
+    "topic": "第44味 白英",
+    "cue_range": [
+      623,
+      656
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 1981000,
+    "t_end_ms": 2240000,
+    "topic": "第46味 赤箭",
+    "cue_range": [
+      656,
+      735
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 2240000,
+    "t_end_ms": 2405000,
+    "topic": "第47–48味 奄闾 / 析蓂",
+    "cue_range": [
+      735,
+      782
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 7,
+    "t_start_ms": 2405000,
+    "t_end_ms": 2579000,
+    "topic": "第49味 蓍实",
+    "cue_range": [
+      782,
+      830
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 8,
+    "t_start_ms": 2579000,
+    "t_end_ms": 2707000,
+    "topic": "第50味 芝",
+    "cue_range": [
+      830,
+      868
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 9,
+    "t_start_ms": 2707000,
+    "t_end_ms": 2937000,
+    "topic": "第51味 卷柏",
+    "cue_range": [
+      868,
+      932
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 10,
+    "t_start_ms": 2937000,
+    "t_end_ms": 3641000,
+    "topic": "第52味 蓝实（夹白蒿更正）",
+    "cue_range": [
+      932,
+      1156
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 11,
+    "t_start_ms": 3641000,
+    "t_end_ms": 4115000,
+    "topic": "第53味 芎䓖",
+    "cue_range": [
+      1156,
+      1333
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 12,
+    "t_start_ms": 4115000,
+    "t_end_ms": 4154000,
+    "topic": "第54味 蘼芜",
+    "cue_range": [
+      1333,
+      1344
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 13,
+    "t_start_ms": 4154000,
+    "t_end_ms": 4957000,
+    "topic": "第55味 黄连",
+    "cue_range": [
+      1344,
+      1650
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 14,
+    "t_start_ms": 4957000,
+    "t_end_ms": 5225000,
+    "topic": "第56味 络石",
+    "cue_range": [
+      1650,
+      1723
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 15,
+    "t_start_ms": 5225000,
+    "t_end_ms": 5347000,
+    "topic": "第57味 蒺藜子",
+    "cue_range": [
+      1723,
+      1756
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 16,
+    "t_start_ms": 5347000,
+    "t_end_ms": 6243000,
+    "topic": "第58味 黄耆",
+    "cue_range": [
+      1756,
+      2063
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 17,
+    "t_start_ms": 6243000,
+    "t_end_ms": 6835000,
+    "topic": "第59味 肉苁蓉",
+    "cue_range": [
+      2063,
+      2254
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  },
+  {
+    "section": 18,
+    "t_start_ms": 6835000,
+    "t_end_ms": 7134501,
+    "topic": "第60味 防风",
+    "cue_range": [
+      2254,
+      2362
+    ],
+    "bvid": "BV1Yx8czJE6e"
+  }
+]

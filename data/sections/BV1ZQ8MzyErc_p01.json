@@ -1,0 +1,68 @@
+[
+  {
+    "section": 1,
+    "t_start_ms": 32000,
+    "t_end_ms": 1671000,
+    "topic": "素问·骨空论",
+    "cue_range": [
+      15,
+      589
+    ],
+    "bvid": "BV1ZQ8MzyErc"
+  },
+  {
+    "section": 2,
+    "t_start_ms": 1671000,
+    "t_end_ms": 3248000,
+    "topic": "素问·水热穴论",
+    "cue_range": [
+      589,
+      1086
+    ],
+    "bvid": "BV1ZQ8MzyErc"
+  },
+  {
+    "section": 3,
+    "t_start_ms": 3248000,
+    "t_end_ms": 6389000,
+    "topic": "素问·调经论",
+    "cue_range": [
+      1086,
+      2181
+    ],
+    "bvid": "BV1ZQ8MzyErc"
+  },
+  {
+    "section": 4,
+    "t_start_ms": 6389000,
+    "t_end_ms": 8505000,
+    "topic": "素问·缪刺论",
+    "cue_range": [
+      2181,
+      2943
+    ],
+    "bvid": "BV1ZQ8MzyErc"
+  },
+  {
+    "section": 5,
+    "t_start_ms": 8505000,
+    "t_end_ms": 9629000,
+    "topic": "素问·四时刺逆从论",
+    "cue_range": [
+      2943,
+      3344
+    ],
+    "bvid": "BV1ZQ8MzyErc"
+  },
+  {
+    "section": 6,
+    "t_start_ms": 9629000,
+    "t_end_ms": 10728001,
+    "topic": "素问·标本病传论",
+    "cue_range": [
+      3344,
+      3685
+    ],
+    "bvid": "BV1ZQ8MzyErc"
+  }
+]
