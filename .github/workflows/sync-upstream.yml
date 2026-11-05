@@ -1,0 +1,33 @@
+name: Sync upstream
+
+on:
+  schedule:
+    - cron: '34 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: upstream-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge upstream into fork
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          UPSTREAM_OWNER: Renhuai123
+          UPSTREAM_REPO: nihai-renji-corpus
+          BRANCH: main
+          REPO: ${{ github.repository }}
+        run: |
+          set -eu
+          echo "Syncing $UPSTREAM_OWNER/$UPSTREAM_REPO:$BRANCH -> $REPO:$BRANCH"
+          if gh api -X POST "repos/$REPO/merge-upstream" -f branch="$BRANCH" --jq '.merge_type'; then
+            echo "OK"
+          else
+            echo "::warning::merge-upstream failed (fork has diverged or upstream branch gone)"
+          fi
