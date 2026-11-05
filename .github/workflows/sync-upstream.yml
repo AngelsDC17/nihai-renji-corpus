@@ -15,19 +15,32 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      UPSTREAM_OWNER: Renhuai123
+      UPSTREAM_REPO: nihai-renji-corpus
+      BRANCH: main
+      REPO: ${{ github.repository }}
     steps:
-      - name: Merge upstream into fork
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          UPSTREAM_OWNER: Renhuai123
-          UPSTREAM_REPO: nihai-renji-corpus
-          BRANCH: main
-          REPO: ${{ github.repository }}
+      - name: Merge upstream branch
         run: |
           set -eu
-          echo "Syncing $UPSTREAM_OWNER/$UPSTREAM_REPO:$BRANCH -> $REPO:$BRANCH"
+          echo "merge $UPSTREAM_OWNER/$UPSTREAM_REPO:$BRANCH -> $REPO"
           if gh api -X POST "repos/$REPO/merge-upstream" -f branch="$BRANCH" --jq '.merge_type'; then
-            echo "OK"
+            echo "branch sync ok"
           else
-            echo "::warning::merge-upstream failed (fork has diverged or upstream branch gone)"
+            echo "::warning::merge-upstream failed (conflict or upstream branch removed)"
           fi
+
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Mirror upstream tags
+        run: |
+          set -eu
+          git remote add upstream "https://github.com/$UPSTREAM_OWNER/$UPSTREAM_REPO.git"
+          git fetch upstream --tags --force --prune
+          echo "local tags after fetch: $(git tag | wc -l)"
+          git push origin --tags --force
