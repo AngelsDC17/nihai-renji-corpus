@@ -8,12 +8,12 @@
 
 **人纪全量**：伤寒论 / 金匮要略 / 神农本草经 / 黄帝内经 / 仲景心法 / 针灸大成，六部全覆盖。
 
-> 🎉 **人纪板块已上线 [metisziwei.com](https://metisziwei.com/sanjige)** —— 本库的 19,294 条判语
+> 🎉 **人纪板块已上线 [ouranic.cn](https://ouranic.cn/sanjige)** —— 本库的 19,294 条判语
 > 已接入线上平台，现在就能按六部体系检索、按课程跟读，每一句都可一键回放倪师原视频。欢迎体验、欢迎指正。
 
-线上体验：[排盘与 AI 解读](https://metisziwei.com) · [三纪阁 · 人纪](https://metisziwei.com/sanjige)
+线上体验：[排盘与 AI 解读](https://ouranic.cn) · [三纪阁 · 人纪](https://ouranic.cn/sanjige)
 
-姊妹库：[nihai-tianji-corpus](https://github.com/Renhuai123/nihai-tianji-corpus) —— 倪海厦《天纪》4886 条判语（已上线 [metisziwei.com/tianji](https://metisziwei.com/tianji)）。
+姊妹库：[nihai-tianji-corpus](https://github.com/Renhuai123/nihai-tianji-corpus) —— 倪海厦《天纪》4886 条判语（已上线 [ouranic.cn/tianji](https://ouranic.cn/tianji)）。
 
 ## 数字总览
 
@@ -119,12 +119,12 @@ python3 tools/gate_check.py --batch transcripts  # 转写层 G2/G3/G7
 - [x] 人纪 · 黄帝内经 19 集
 - [x] 人纪 · 针灸大成 44 集
 - [x] 六部 L2 全量抽取 —— **人纪全量 19,294 条**
-- [x] 接入线上平台 metisziwei.com 人纪板块
+- [x] 接入线上平台 ouranic.cn 人纪板块
 - [ ] 学习站（双轴导航 + 判语卡 + 一键回放）
 
-## 线上平台 · metisziwei.com
+## 线上平台 · ouranic.cn
 
-本库是 [metisziwei.com](https://metisziwei.com) 的知识层。平台已上线排盘、AI 解读、命盘历史等功能，
+本库是 [ouranic.cn](https://ouranic.cn) 的知识层。平台已上线排盘、AI 解读、命盘历史等功能，
 **三纪阁的人纪板块现已开放**：这 19,294 条判语已接成可检索、可回放的学习产品——按六部体系查，
 或按 117 集课程跟读，点任一条出处直达 B 站原视频的那一秒。
 
